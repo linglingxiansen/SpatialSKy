@@ -1,0 +1,50 @@
+# Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation
+Repository for **Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation**
+
+<h5 align="center">
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-9BDFDF)](https://github.com/linglingxiansen/SpatialSky/blob/main/LICENSE) 
+[![hf_checkpoint](https://img.shields.io/badge/🤗-Dataset-FBD49F.svg)](https://huggingface.co/llxs/Sky-VLM)
+[![arXiv](https://img.shields.io/badge/Arxiv-2508.14160-E69191.svg?logo=arXiv)](https://arxiv.org/abs/2502.13451) 
+
+
+## 🚀 Getting Start
+### Installation
+```
+pip install git+https://github.com/huggingface/transformers accelerate torch torchvision openai pillow tqdm nltk scipy
+```
+### Scene Dataset
+Download the uav scene dataset from [UAVScenes](https://github.com/sijieaaa/UAVScenes) and put the UAVScenes dir in SpatialSky. The file structure should look like this:
+```
+SpatialSKy/
+├── UAVScenes
+    ├── interval5_CAM_LIDAR
+    ├── interval5_CAM_LIDAR.zip
+    ├── interval5_CAM_label
+    └──...
+├── benchmark
+├── metric
+└── parallel_inference.py
+```
+
+### Download Ckpt
+Download our Sky-VLM model from [![hf_checkpoint](https://img.shields.io/badge/🤗-Dataset-FBD49F.svg)](https://huggingface.co/llxs/Sky-VLM).
+
+
+## 🔍 Evaluation for SpatialSky-Bench
+```
+python parallel_inference.py --ckpt_path /your/ckpt/path --num_gpus $your GPU number
+bash eval.sh /your/result/dir
+```
+
+## 🔥 Training
+The training dataset and code are coming soom...
+
+
+
+
+
+
+
+
+
