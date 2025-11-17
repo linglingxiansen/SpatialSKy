@@ -24,8 +24,8 @@ Download the uav scene dataset from [UAVScenes](https://github.com/sijieaaa/UAVS
 SpatialSKy/
 ├── UAVScenes
 |   ├── interval5_CAM_LIDAR
-|   ├── interval5_CAM_LIDAR.zip
 |   ├── interval5_CAM_label
+|   ├── interval5_LIDAR_label
 |   └──...
 ├── benchmark
 ├── metric
@@ -49,7 +49,7 @@ cd metric
 bash eval.sh /your/result/dir
 ```
 ## 🔥 Training
-The training dataset and code are coming soom...
+The training dataset and code are coming soon...
 
 
 
