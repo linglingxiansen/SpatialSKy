@@ -6,8 +6,8 @@ from openai import OpenAI
 # =========================================================
 # 基础配置
 # =========================================================
-API_KEY = "sk-d2iSHbVrp0zIAMXxRQY24Tq5KPpXW41Bivj9Kfd4xV8bYVcz"
-API_BASE_URL = "http://model.mify.ai.srv/v1"
+API_KEY = "your api key"
+API_BASE_URL = "your api base url"
 
 client = OpenAI(
     api_key=API_KEY,
