@@ -1,0 +1,502 @@
+[
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217729.099917173.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the truck in the top center?\nOptions:\n\nA. light gray\nB. dark light gray\nC. ash gray\nD. light light gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217755.099930048.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the largest paved motor road in the bottom center?\nOptions:\n\nA. chestnut\nB. tan\nC. brown\nD. dark brown",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137972.102825609.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the dirt motor road in the bottom-right corner?\nOptions:\n\nA. umber\nB. chestnut\nC. dark brown\nD. brown",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137434.127087877.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the truck in the left side?\nOptions:\n\nA. dark gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning\nB. warm gray\nC. ash gray\nD. gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606738.699995995.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the umbrella that is to the top-right of the dirt motor road.\nOptions:\n\nA. slate gray\nB. gray\nC. dark gray\nD. light gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671609979.899814844.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the car park located in the top-left corner?\nOptions:\n\nA. pale teal\nB. teal\nC. dark teal\nD. light teal",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133051.591916537.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the bridge at the right side.\nOptions:\n\nA. warm gray\nB. dark gray\nC. gray\nD. light gray",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227167.099973917.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the airstrip located below the container?\nOptions:\n\nA. dark gray\nB. gray\nC. slate gray\nD. ash gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610067.399779081.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the container in the top-right corner?\nOptions:\n\nA. white\nB. eggshell\nC. light white\nD. off-white",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702106.399900913.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the traffic barrier located below the green field?\nOptions:\n\nA. gray\nB. warm gray\nC. ash gray\nD. charcoal gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610326.099822998.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the car park at the top-right corner.\nOptions:\n\nA. warm gray\nB. charcoal gray\nC. dark dark gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning\nD. dark gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141510.499994040.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the river in the top center?\nOptions:\n\nA. forest green\nB. dark dark green\nC. dark green\nD. sea green",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141513.999877930.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the smallest river in the top center?\nOptions:\n\nA. light gray\nB. dark gray\nC. slate gray\nD. light dark gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133227.585866807.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the solar board in the top-right corner?\nOptions:\n\nA. ash gray\nB. warm gray\nC. charcoal gray\nD. gray",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698219992.999809027.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the sedan positioned above the traffic barrier?\nOptions:\n\nA. pale teal\nB. teal\nC. light teal\nD. saturated teal",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137190.137778576.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the roof at the bottom center.\nOptions:\n\nA. pink\nB. salmon\nC. dark pink\nD. blush pink",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138315.087555594.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the paved motor road that is below the umbrell\n\nA. slate gray\nB. warm gray\nC. gray\nD. light gray",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229992.552219007.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the roof in the bottom center?\nOptions:\n\nA. gray\nB. ash gray\nC. warm gray\nD. slate gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671609968.399875164.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the airstrip in the center?\nOptions:\n\nA. brown\nB. light brown\nC. tan\nD. dark brown",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698132248.499937057.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the river at the bottom-right corner.\nOptions:\n\nA. olive green\nB. light dark green\nC. dark green\nD. mint green",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607432.199807882.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the large paved motor road in the top-left corner?\nOptions:\n\nA. ash gray\nB. gray\nC. dark gray\nD. slate gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227081.599807024.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the container in the top center?\nOptions:\n\nA. cream\nB. dark white\nC. white\nD. light white",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227101.099918127.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the umbrella located in the left side?\nOptions:\n\nA. light gray\nB. slate gray\nC. ash gray\nD. warm gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137132.638936005.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the paved walk that is to the right of the roof.\nOptions:\n\nA. charcoal gray\nB. slate gray\nC. light gray\nD. gray",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137786.608521875.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the truck in the bottom-left corner?\nOptions:\n\nA. ash gray\nB. gray\nC. light gray\nD. warm gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217530.899966955.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the paved motor road to the left of the green field?\nOptions:\n\nA. light brown. return only the option in the format: \\boxed{option}. do not include extra text or reasoning\nB. chestnut\nC. umber\nD. brown. return only the option in the format: \\boxed{option}. do not include extra text or reasoning",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230802.492343680.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the bridge that is to the right of the roof.\nOptions:\n\nA. light gray\nB. gray\nC. charcoal gray\nD. dark gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698140664.299811125.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the river to the top-left of the wild field?\nOptions:\n\nA. dark green\nB. forest green\nC. sea green\nD. light dark green",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138172.095831351.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the green field in the bottom-right corner?\nOptions:\n\nA. ash gray\nB. light gray\nC. warm gray\nD. gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702394.999809027.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the traffic barrier to the right of the river?\nOptions:\n\nA. brown\nB. khaki\nC. light brown\nD. umber",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141613.999910831.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the green field to the top-right of the river?\nOptions:\n\nA. black\nB. charcoal\nC. onyx\nD. dark black",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228780.942644083.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the truck in the bottom center?\nOptions:\n\nA. light gray\nB. gray\nC. dark gray\nD. ash gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138058.597252276.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the dirt motor road located in the bottom-right corner?\nOptions:\n\nA. dark gray\nB. gray\nC. warm gray\nD. slate gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220086.299973011.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the umbrella at the top-left corner.\nOptions:\n\nA. dark gray\nB. gray\nC. charcoal gray\nD. slate gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137449.624145637.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the green field in the bottom center?\nOptions:\n\nA. slate gray\nB. gray\nC. light gray\nD. ash gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229788.061706165.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the wild field that is to the left of the wild field.\nOptions:\n\nA. gray\nB. light gray\nC. charcoal gray\nD. dark gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217654.399781942.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the container to the left of the container?\nOptions:\n\nA. eggshell\nB. white\nC. dark white\nD. cream",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698218178.199987888.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the medium green field in the bottom-right corner?\nOptions:\n\nA. light dark green\nB. sage green\nC. dark dark green\nD. dark green",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698140697.299995899.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the river positioned to the bottom-left of the green field?\nOptions:\n\nA. teal\nB. dark teal\nC. light teal\nD. saturated teal",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230798.004255230.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the pool in the bottom-right corner?\nOptions:\n\nA. charcoal gray\nB. warm gray\nC. light dark gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning\nD. dark gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132935.098352319.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the umbrella in the top-right corner?\nOptions:\n\nA. charcoal gray\nB. gray\nC. light gray\nD. ash gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141187.899974823.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the river that is to the left of the river.\nOptions:\n\nA. light gray\nB. slate gray\nC. dark gray\nD. light dark gray",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132225.135099271.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the transparent roof positioned to the top-right of the roof?\nOptions:\n\nA. light gray\nB. dark light gray\nC. warm gray\nD. slate gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133219.587428557.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the green field located below the truck?\nOptions:\n\nA. ash gray\nB. light gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning\nC. warm gray\nD. gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133385.580396288.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the medium roof in the top center?\nOptions:\n\nA. ivory\nB. white\nC. off-white\nD. eggshell",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698219961.499877214.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the sedan to the top-left of the airstrip?\nOptions:\n\nA. slate gray\nB. dark dark gray\nC. dark gray\nD. warm gray",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606730.199779034.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the truck in the top-right corner?\nOptions:\n\nA. gray\nB. light gray\nC. warm gray\nD. ash gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137132.638936005.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the umbrella located in the top-right corner?\nOptions:\n\nA. warm gray\nB. gray\nC. ash gray\nD. charcoal gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230836.993453485.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the roof to the right of the dirt motor road?\nOptions:\n\nA. light gray\nB. light light gray\nC. dark light gray\nD. warm gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669703866.199889898.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the river at the bottom-left corner.\nOptions:\n\nA. dark green\nB. light dark green\nC. forest green\nD. sage green",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658230032.052857724.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the bridge in the bottom-left corner?\nOptions:\n\nA. dark green\nB. olive green\nC. light dark green\nD. sage green",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217780.099919081.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the umbrella in the top-right corner?\nOptions:\n\nA. dark light gray\nB. light gray\nC. charcoal gray\nD. warm gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132951.097456319.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the paved motor road located to the top-left of the roof?\nOptions:\n\nA. gray\nB. slate gray\nC. warm gray\nD. dark gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229963.054994491.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the bridge in the bottom-left corner?\nOptions:\n\nA. light gray\nB. gray\nC. dark gray\nD. charcoal gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610301.599935055.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the paved motor road located in the left side?\nOptions:\n\nA. dark gray\nB. gray\nC. charcoal gray\nD. light gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220020.199882030.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the umbrella positioned to the right of the paved motor road?\nOptions:\n\nA. dark gray\nB. gray\nC. charcoal gray\nD. ash gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138003.599777732.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the roof to the left of the roof?\nOptions:\n\nA. ash gray\nB. charcoal gray\nC. light light gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning\nD. light gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132371.129440994.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the umbrella above the solar board?\nOptions:\n\nA. slate gray\nB. dark gray\nC. gray\nD. charcoal gray",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137105.141763123.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the solar board that is to the left of the sedan.\nOptions:\n\nA. gray\nB. warm gray\nC. light gray\nD. dark gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606602.699918032.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the sedan in the top center?\nOptions:\n\nA. ash gray\nB. dark gray\nC. gray\nD. light gray",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227486.899841070.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the airstrip positioned above the container?\nOptions:\n\nA. dark light gray\nB. light gray\nC. charcoal gray\nD. warm gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606467.699816942.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the car park located in the left side?\nOptions:\n\nA. light gray\nB. dark gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning\nC. charcoal gray\nD. gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220116.299983025.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the umbrella in the top center?\nOptions:\n\nA. ash gray\nB. warm gray\nC. gray\nD. light gray",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606766.699878931.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the airstrip located above the green field?\nOptions:\n\nA. ash gray\nB. dark gray\nC. warm gray\nD. slate gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137323.133693261.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the wild field located in the bottom-right corner?\nOptions:\n\nA. dark gray\nB. gray\nC. warm gray\nD. charcoal gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698226857.499930859.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the smallest umbrella in the top-left corner?\nOptions:\n\nA. dark white\nB. off-white\nC. ivory\nD. white",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228950.435285877.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the bridge at the bottom center.\nOptions:\n\nA. ash gray\nB. light gray\nC. warm gray\nD. dark light gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698140967.299963951.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the river in the top-right corner?\nOptions:\n\nA. saturated teal\nB. teal\nC. light teal\nD. pale teal",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137265.633307502.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the dirt motor road that is to the bottom-right of the roof.\nOptions:\n\nA. ash gray\nB. light gray\nC. gray\nD. warm gray",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137722.114743126.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the transparent roof positioned above the roof?\nOptions:\n\nA. warm gray\nB. gray\nC. light gray\nD. slate gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698134333.899821997.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the traffic barrier to the bottom-right of the river?\nOptions:\n\nA. dark black\nB. black\nC. jet black\nD. light black",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141309.899972200.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the green field above the green field?\nOptions:\n\nA. sage green\nB. dark dark green\nC. mint green\nD. dark green",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228808.440904095.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the green field in the right side?\nOptions:\n\nA. dark gray\nB. ash gray\nC. light gray\nD. gray",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228760.443252469.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the pool at the bottom-right corner.\nOptions:\n\nA. dark gray\nB. slate gray\nC. ash gray\nD. light gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132369.130070766.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the sedan that is to the bottom-left of the green field.\nOptions:\n\nA. gray\nB. dark gray\nC. charcoal gray\nD. slate gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698218131.699876070.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the traffic barrier to the left of the green field?\nOptions:\n\nA. charcoal gray\nB. light gray\nC. dark light gray\nD. light light gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671609970.399817944.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the largest green field in the bottom center?\nOptions:\n\nA. light dark gray\nB. charcoal gray\nC. dark gray\nD. slate gray",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137658.614641378.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the roof positioned to the bottom-right of the dirt motor road?\nOptions:\n\nA. white\nB. cream\nC. off-white\nD. ivory",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658230026.052681633.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the roof at the center.\nOptions:\n\nA. dark white. return only the option in the format: \\boxed{option}. do not include extra text or reasoning\nB. light white. return only the option in the format: \\boxed{option}. do not include extra text or reasoning\nC. cream\nD. white. return only the option in the format: \\boxed{option}. do not include extra text or reasoning",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227105.599915028.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the paved motor road in the bottom center?\nOptions:\n\nA. slate gray\nB. gray\nC. dark gray\nD. warm gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137197.137389767.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the smallest truck in the bottom-right corner?\nOptions:\n\nA. dark light gray\nB. light gray\nC. slate gray\nD. charcoal gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702253.899913073.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the wild field positioned above the wild field?\nOptions:\n\nA. gray\nB. charcoal gray\nC. slate gray\nD. warm gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698140676.799887180.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the green field to the right of the green field?\nOptions:\n\nA. charcoal\nB. light black\nC. black\nD. onyx",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227169.099922895.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the car park located to the left of the traffic barrier?\nOptions:\n\nA. gray\nB. ash gray\nC. charcoal gray\nD. slate gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658229388.319945211.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the green field in the bottom-left corner?\nOptions:\n\nA. ash gray\nB. warm gray\nC. slate gray\nD. gray",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607497.699845791.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the truck located above the container?\nOptions:\n\nA. light gray\nB. ash gray\nC. gray\nD. slate gray",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132111.139135806.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the transparent roof in the bottom-right corner?\nOptions:\n\nA. dark gray\nB. charcoal gray\nC. gray\nD. slate gray",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132370.627472504.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the paved walk positioned below the green field?\nOptions:\n\nA. saturated beige\nB. pale beige\nC. beige\nD. muted beige",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219139.799783945.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the sedan positioned to the left of the umbrella?\nOptions:\n\nA. light gray\nB. slate gray\nC. dark gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning\nD. gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138340.087390075.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the paved walk in the center?\nOptions:\n\nA. light beige\nB. dark beige\nC. pale beige\nD. beige",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131947.644335499.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the solar board located above the roof?\nOptions:\n\nA. light gray\nB. light gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning\nC. ash gray\nD. gray. return only the option in the format: \\boxed{option}. do not include extra text or reasoning",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607646.599891901.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the truck positioned to the right of the green field?\nOptions:\n\nA. gray\nB. dark gray\nC. warm gray\nD. charcoal gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698226897.499994993.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the sedan located in the top center?\nOptions:\n\nA. light gray\nB. slate gray\nC. gray\nD. warm gray",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133542.074938784.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nDescribe the color of the dirt motor road that is to the right of the green field.\nOptions:\n\nA. warm gray\nB. gray\nC. dark gray\nD. slate gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137529.122439426.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the roof above the roof?\nOptions:\n\nA. charcoal gray\nB. light gray\nC. light light gray\nD. slate gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219163.299781799.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the color of the car park to the right of the umbrella?\nOptions:\n\nA. gray\nB. slate gray\nC. charcoal gray\nD. warm gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227137.099877834.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the small car park in the top-left corner?\nOptions:\n\nA. gray\nB. charcoal gray\nC. ash gray\nD. slate gray",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227123.599977970.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the smallest traffic barrier in the left side?\nOptions:\n\nA. dark light gray\nB. light gray\nC. charcoal gray\nD. ash gray",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228504.952070438.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nCan you tell me the color of the pool in the top-right corner?\nOptions:\n\nA. sky blue\nB. azure\nC. dark blue\nD. dark dark blue",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606645.199923992.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat color is the umbrella located to the left of the container?\nOptions:\n\nA. dark gray\nB. charcoal gray\nC. ash gray\nD. gray",
+    "ground_truth": "\\boxed{D}"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658229326.318891414.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, dirt motor road or wild field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228833.939510697.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, dirt motor road or wild field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137455.624319756.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or dirt motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230847.992544176.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, dirt motor road or wild field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698134325.899820089.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, dirt motor road or roof?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702064.399970055.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, wild field or dirt motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133093.590760745.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, wild field or roof?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138316.584767857.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the highest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228888.438075582.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, roof or wild field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137592.617903148.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the highest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138047.599702465.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or roof?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132228.134587234.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the lowest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228974.932327674.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the lowest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "pool"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230612.002148881.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, pool or dirt motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "pool"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229832.557869476.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, pool or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "pool"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228974.932327674.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, pool or wild field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "pool"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229882.057662861.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, pool or wild field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "pool"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228523.951466954.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, pool or wild field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "pool"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698131862.399921894.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, wild field or sedan?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "sedan"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607537.699994087.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or sedan?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "sedan"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138076.595855260.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the lowest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "sedan"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220085.299815893.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or sedan?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "sedan"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137627.617283696.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the lowest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "sedan"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698134018.399825811.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or sedan?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "sedan"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217941.099880934.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or paved motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219100.699887037.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or paved motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131906.645277795.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or paved motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610045.399877787.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or paved motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137120.141113183.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the highest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217638.899804831.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or paved motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132960.097834948.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or paved walk?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132351.627376843.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the highest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131867.647914930.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the highest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131854.648790985.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the highest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131849.647652404.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the highest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138342.584176731.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the highest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698134322.899915934.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, river or roof?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698140859.799988985.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, river or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141778.299986839.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the highest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698134231.899972200.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, river or wild field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669704054.299921989.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the highest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698134151.499957085.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the lowest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219147.799981117.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or airstrip?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698219940.499830008.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the lowest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220283.299913883.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the highest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227104.599967003.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or airstrip?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217798.099895954.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the lowest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227146.599827051.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the highest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606515.699903011.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the highest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227525.899960041.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, airstrip or container?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606656.699886084.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or container?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217637.399835825.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or container?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607539.199838877.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, paved motor road or container?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217546.899911880.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, airstrip or container?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133303.582161301.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, dirt motor road or transparent roof?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132217.137590507.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, transparent roof or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133301.582434795.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, transparent roof or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137196.637258923.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, transparent roof or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133148.090313881.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, transparent roof or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137197.137389767.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, transparent roof or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610305.099827051.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or traffic barrier?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702423.999818087.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, wild field or traffic barrier?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702055.899983168.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, traffic barrier or roof?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141860.899983883.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, wild field or traffic barrier?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141854.899997950.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, wild field or traffic barrier?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland03/interval5_CAM/1669702615.499922991.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, traffic barrier or roof?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606580.199973822.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, car park or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698226980.099853992.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, car park or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606518.199834108.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, car park or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217800.599835873.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, car park or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698226971.599984884.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, car park or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217805.599822998.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, car park or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606697.699910879.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or truck?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217734.099828959.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or truck?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133227.087502357.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the lowest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137432.624466695.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or truck?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606650.699980974.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or truck?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217678.399994135.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or truck?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137248.632950342.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, bridge or roof?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230684.497085290.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, bridge or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228496.455082114.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, bridge or wild field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229967.560800480.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, bridge or wild field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137271.135030888.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the lowest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137272.133483470.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the lowest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606623.699941874.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or umbrella?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606633.199779034.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or umbrella?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219099.699962854.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, umbrella or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220083.299892902.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or umbrella?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606638.699995995.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or umbrella?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610049.899888039.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is higher, green field or umbrella?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131938.146195965.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, solar board or paved walk?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137095.141320958.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, solar board or paved motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132978.097081410.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, solar board or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131907.644753337.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, solar board or paved motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133228.585341194.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, solar board or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131906.147291445.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, solar board or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137546.121748570.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the lowest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227496.899890900.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the highest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141470.499813080.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is lower, river or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698132428.399914980.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the lowest object in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  }
+]

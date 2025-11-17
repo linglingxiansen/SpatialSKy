@@ -1,0 +1,502 @@
+[
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698140658.799919128.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to the sedan located in the top area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1432,149],[1410,155],[1415,136],[1404,154],[1440,114],[1403,156],[1446,110]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698226870.999934912.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on all traffic barriers in the image. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1617,803],[1612,796],[1857,826],[1435,868],[1717,893],[724,1056],[664,1093],[864,1021],[860,1033],[419,1187],[397,1176]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227263.099841118.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on the dirt motor road in the left side. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[688,352],[834,1372],[807,893],[668,321],[800,661]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133205.585990609.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on each roof in the scene. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[758,52],[1039,141],[2172,476],[2330,637],[1610,490],[1396,719],[1825,691],[1859,807],[1362,836],[1289,812],[812,1058],[261,1152],[108,1324],[1867,1242],[1334,1397],[1560,1438],[744,1573],[361,1701],[1902,1634],[1844,1592],[1188,1719],[1169,1702],[972,1774],[966,1755]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220038.699836016.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on the paved motor road in the top-right area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2351,360],[1991,275],[2337,422],[2348,397],[2168,526]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219068.199930906.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Indicate the locations of all containers. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[551,92],[541,229],[1027,616],[1069,636]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230687.497057387.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on all roofs in the image. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2378,167],[1292,180],[1282,267],[1422,172],[1416,185],[1519,308],[1620,754]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698140769.599806070.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where is the green field in the bottom area? Click on it. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1885,1980],[1645,1487],[726,1734],[723,1996],[789,1813],[939,1502]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137438.126252324.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on the transparent roof in the bottom area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1471,1611],[1505,1585],[1517,1746],[1458,1686],[1502,1698],[1529,1554],[1457,1818]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607542.199813843.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to the umbrella located in the top area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1360,218],[1338,260],[1328,264],[1325,223],[1308,243],[1352,234]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606464.199909925.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to the dirt motor road located in the right side. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1929,1339],[1864,1249],[2091,1658],[2015,1391],[1883,1295],[2052,1583]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217523.899930954.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on all umbrellas in the image. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[441,362],[401,430],[380,438]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228984.932459631.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on all bridges in the image. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2220,1184],[2261,1245],[1137,1850]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610115.599827051.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on the umbrella in the top-right area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2434,442],[2433,427],[2437,535],[2444,472],[2438,539],[2440,489],[2432,484]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658229133.826055105.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to the roof located in the top-left area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[549,184],[552,162],[572,137],[553,201],[570,88],[526,117],[572,121]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610332.599997997.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to all 4 traffic barriers. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1781,194],[1563,1590],[1820,1795],[1595,2045]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606895.199977875.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on the airstrip in the bottom area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[993,2018],[1165,1975],[475,2032],[1474,1970],[2227,1824]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137518.122561848.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Indicate the location of the transparent roof in the bottom-right area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1685,1594],[1739,1588],[1719,1384],[1693,1371],[1698,1505]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219286.599792957.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Mark all containers by clicking on them. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[114,656],[42,791],[679,840],[738,919],[52,1533],[46,1538],[81,1699]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132950.595501408.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Mark all solar boards by clicking on them. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[284,640],[310,762],[209,870]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133213.087538747.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to the truck located in the bottom-left area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[28,1717],[87,1727],[24,1751],[57,1713],[30,1741],[36,1717]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217485.899776936.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Mark all paved motor roads by clicking on them. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[516,17],[516,9],[2209,874]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228406.956459868.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where is the pool in the right side? Click on it. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2267,1171],[2097,1225],[2233,1192],[2262,1139],[2123,1219],[2291,1185],[2246,1170]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606866.699779034.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Indicate the locations of all dirt motor roads. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[38,425],[10,318],[322,696],[393,1703]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217487.899981976.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Indicate the locations of all green fields. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[54,6],[363,6],[367,14],[2239,1059],[351,1830],[1443,1871]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland03/interval5_CAM/1669702749.799918175.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where are all the rivers? Click on them. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[996,527],[1143,524],[1230,395],[1227,389]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698131804.899837017.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where are all the roofs? Click on them. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1955,168],[1387,600],[2438,27],[2400,16]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607542.199813843.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to all 3 car parks. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1660,204],[1557,416],[1539,402],[1391,458]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227126.099838018.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on each umbrella in the scene. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1576,634],[1690,753]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228297.960656337.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to all 3 dirt motor roads. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1456,1314],[288,45],[5,1385],[374,1783],[2386,2042]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137160.139055948.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Indicate the locations of all roofs. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[881,48],[892,115],[1508,21],[1564,18],[1630,271],[1029,422],[1291,403],[1710,555],[1770,507],[1664,759],[1343,922],[1417,945],[1086,895],[1950,920],[1894,911],[835,929],[1259,1088],[1124,1174],[2010,1431],[1938,1341],[2177,1394],[1924,1687],[2001,1785],[1354,1685],[1442,1804],[1518,1830],[1984,2009],[2103,2032]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132362.129010165.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where is the paved walk in the center area? Click on it. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[975,602],[965,672],[1114,1234],[916,791],[1280,859],[833,1115],[868,991],[915,1367]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228749.443394193.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on the bridge in the bottom-left area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[491,1658],[513,1755],[538,1824],[496,1695],[524,1766],[495,1631]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607495.199973106.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on the truck in the top-left area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[164,312],[166,364],[49,407],[113,442],[144,415],[149,294]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610093.599911928.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to the airstrip located in the left side. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[330,649],[955,736],[443,986],[391,813],[901,790],[993,703]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698226841.999951124.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to the airstrip located in the left side. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[513,1551],[1126,1818],[722,1949],[933,1903],[940,1192],[1175,252]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698226844.499889851.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Indicate the location of the sedan in the bottom-right area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2193,1606],[2034,1689],[2001,1663],[2164,1614],[1983,1688],[2069,1702],[2105,1654],[2020,1688]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229822.558551407.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on all dirt motor roads in the image. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1593,219],[833,79],[2256,1319],[1000,1696]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228963.932603209.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on each pool in the scene. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1410,1259],[449,1643],[446,1645]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228770.443070120.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on the bridge in the left side. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[777,1181],[768,1219],[618,1293],[766,1183],[735,1226],[639,1254],[719,1206],[781,1208]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132957.595220780.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Mark all solar boards by clicking on them. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[252,729],[220,897]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138284.587073524.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to all 2 dirt motor roads. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1467,81],[2140,988],[1684,362]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141086.099775076.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on all rivers in the image. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[874,286],[2239,148],[2260,191],[2133,136],[2377,439],[740,595],[748,576],[2030,916],[2027,915],[2306,1104],[2307,1175],[2022,1099],[2040,1098],[2067,1143],[2136,1252],[2139,1244],[2080,1385],[2078,1364],[2438,1409],[2439,1393],[2152,1433],[2143,1603],[2295,1631],[2301,1624],[2050,1758]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133565.571822026.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to all 6 sedans. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2110,930],[2289,1549],[1132,1660],[1057,1828],[1963,1787],[1904,1824],[845,1821],[798,1827]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131900.147364940.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to the paved walk located in the center area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[849,641],[837,1232],[997,1144],[705,1073],[729,930]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138315.585187466.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where is the solar board in the top area? Click on it. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1167,47],[1220,18],[1183,66],[1103,27],[1198,30],[1161,11]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671609984.899820089.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where are all the paved motor roads? Click on them. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[805,0],[481,617],[1491,107],[2241,417]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227262.599973917.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where is the airstrip in the bottom area? Click on it. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[66,1849],[178,1927],[650,1930],[585,1726],[1832,1868],[1192,1933],[2119,1778],[744,1842]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698134293.399806976.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on the river in the center area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[695,1868],[851,1693],[1602,1138],[1647,1639],[1113,80],[901,1568],[1228,1647],[838,24]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219034.699881077.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Mark all umbrellas by clicking on them. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[598,336],[528,432],[538,439]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606570.199954987.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on the paved motor road in the top-left area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[263,30],[227,91],[55,73],[117,48],[169,0],[45,45]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606676.199885130.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Mark all containers by clicking on them. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1087,31],[1428,11]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698131827.399991989.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Mark all traffic barriers by clicking on them. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1427,1104],[1529,1195],[2414,1219],[2034,1300]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138303.087414227.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Indicate the location of the solar board in the top-left area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[762,12],[794,39],[848,76],[816,46],[791,56],[798,19],[846,92]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698131871.899841070.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on each traffic barrier in the scene. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2201,498],[2230,695],[1755,1154],[1468,1201],[1336,1162],[1698,1226],[1621,1253],[1536,1236]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606653.199796915.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to the truck located in the top area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[925,347],[883,442],[898,442],[871,490],[907,405],[933,399],[946,400]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228520.951784394.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to all 2 bridges. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2158,340],[2165,386],[826,747]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702118.899833202.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on all dirt motor roads in the image. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2031,597],[1850,419],[2445,472],[2410,487]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132958.596136469.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on the paved walk in the center area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1302,594],[1340,900],[1332,872],[1309,1191],[1601,948],[1411,1028],[1284,722]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607669.599905014.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on the dirt motor road in the bottom area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1615,1696],[1487,1086],[1729,1991],[1601,1442],[1577,1503],[1464,1059],[1570,1314],[1550,1312]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228410.458804940.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Indicate the location of the pool in the right side. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2427,1205],[2252,1182],[2351,1219],[2382,1180],[2305,1212],[2311,1218],[2318,1203]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228502.454571590.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on each pool in the scene. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1523,71],[562,455],[565,446]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133347.580599140.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to all 2 sedans. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1436,1697],[2185,1734],[2178,1733]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137239.135240766.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where is the transparent roof in the top area? Click on it. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1368,113],[1428,276],[1401,119],[1370,121],[1358,303],[1373,207],[1475,245]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658229131.326679158.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on the sedan in the top-left area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[270,291],[283,303],[271,306],[287,301],[275,302],[262,276]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671607075.699782848.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on each green field in the scene. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[104,734],[1898,700],[1175,363],[1912,2043],[1931,2039],[1943,2043]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227322.599884033.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where are all the containers? Click on them. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2438,1701],[2443,1708],[2226,1916]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131882.148337463.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Indicate the location of the paved walk in the center area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1427,592],[1310,1309],[1324,197],[964,1281],[1280,623],[1011,903]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698219993.499988079.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on each container in the scene. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2079,56],[2373,642],[1541,620],[1486,917]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228803.939968394.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on the pool in the bottom-right area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1781,1988],[1700,1950],[1700,1909],[1758,1963],[1729,1876],[1708,1878]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227047.099831104.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where are all the sedans? Click on them. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1559,4],[1575,10],[1260,131],[1245,113]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219012.199965000.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on all traffic barriers in the image. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[366,345],[821,512],[981,637],[1698,1150],[1670,1102],[1811,1066],[1900,1365],[2085,1411],[2055,1365]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227546.399887800.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to all 4 traffic barriers. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1553,190],[1492,154],[1521,1501],[1523,1617],[1575,1978],[1618,1832],[1358,2002]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606619.699966908.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Indicate the location of the car park in the top-right area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2394,522],[2365,627],[2330,481],[2354,609],[2377,559],[2405,379],[2409,645],[2446,418]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217499.399823904.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to the roof located in the top area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1333,496],[1199,514],[1179,382],[1191,394],[1079,383],[1068,575]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138309.087285206.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on the paved walk in the center area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1146,948],[1132,1110],[1664,950],[1291,1070],[1046,1163],[1178,1329]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610287.599890947.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where are all the green fields? Click on them. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1158,1506],[2275,303]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610325.599991083.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where is the wild field in the top-left area? Click on it. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[664,190],[357,421],[408,280],[665,228],[542,89],[364,273],[640,407]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137211.136864261.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Mark all wild fields by clicking on them. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[81,1434],[198,1399],[2290,1762],[921,2023]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131881.646548150.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to the paved motor road located in the right side. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2140,293],[2191,780],[2108,88],[1983,1189],[1952,1914],[2185,130],[2051,1316]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698226997.599804878.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where is the car park in the top-right area? Click on it. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1869,342],[2049,41],[2182,69],[1920,214],[2002,240]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132366.129329902.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on the paved walk in the center area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1047,558],[961,1064],[1194,1099],[1107,1198],[942,815],[740,1256],[1177,760]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133402.578481242.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to the wild field located in the top-right area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1772,349],[1780,319],[1731,344],[1689,281],[1766,397],[1756,265],[1663,317]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141828.399997950.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where is the dirt motor road in the bottom-left area? Click on it. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[130,1647],[215,1698],[153,1670],[3,1613],[162,1640]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230827.993219736.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where is the bridge in the bottom-right area? Click on it. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1912,1406],[1923,1403],[1955,1391],[2057,1380],[2030,1403],[1986,1414],[2014,1374]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230674.496871131.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Indicate the locations of all bridges. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1361,357],[1339,327],[7,617],[22,641]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132194.136002972.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where is the transparent roof in the bottom-left area? Click on it. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[105,1649],[104,1705],[150,1682],[198,1800],[60,1645],[10,1738],[19,1763],[38,1606]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137437.126492355.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Indicate the locations of all dirt motor roads. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1115,656],[769,697],[2414,565],[2398,529],[2411,794],[2407,792],[2436,1114],[2408,873]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228538.453263099.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Indicate the location of the pool in the top-right area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2220,597],[2203,617],[2219,580],[2207,640],[2181,603],[2202,626],[2219,612],[2209,612]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137065.640605549.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on the paved walk in the center area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1274,1249],[1845,1830],[1413,1718],[1011,805],[1315,21]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133216.585816959.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on all transparent roofs in the image. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1348,22],[547,170],[1532,279],[1583,302]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137744.613664946.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where are all the sedans? Click on them. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1498,326],[1189,379],[47,763],[1892,1512],[804,1898],[805,1869]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137121.140891432.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to all 2 solar boards. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[134,645],[240,775]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217958.099950075.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to all 3 paved motor roads. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2308,490],[2208,886],[2220,885],[1990,1174],[1281,1718]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229828.558574636.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on the pool in the top area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[863,488],[983,399],[954,462],[790,587],[846,603],[763,632],[915,554]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669703582.599800110.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Select points on each river in the scene. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[697,802],[1012,124],[394,1926],[651,1957]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137822.607801106.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Click on all dirt motor roads in the image. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[554,148],[1264,499],[1583,647],[2117,952],[1989,892],[2417,1096]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131979.641824608.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to the transparent roof located in the top area. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[879,284],[804,265],[834,294],[839,118],[869,239],[779,247]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606536.199939013.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Where is the airstrip in the right side? Click on it. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[1935,1121],[1963,1143],[2012,927],[2215,1043],[2403,1071],[2321,1023]]</point>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland03/interval5_CAM/1669702676.999889851.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Point to all 2 traffic barriers. The answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[[2342,962],[2437,1055]]</point>"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606522.699888229.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or airstrip?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610130.599818945.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or airstrip?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219058.699831963.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227109.599995852.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, airstrip or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671609992.899809122.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, airstrip or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606788.199879885.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or airstrip?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217621.899914026.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or car park?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227158.599984169.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or car park?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217622.899971008.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or car park?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227165.099936962.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or car park?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217631.899827003.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, car park or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217614.399893999.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or car park?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137559.120675614.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or dirt motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698133974.399796009.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, roof or dirt motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133195.089435018.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, roof or dirt motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698133980.399990082.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230567.003260447.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or dirt motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138252.588174335.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141456.499876022.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or river?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698134023.899964809.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, wild field or river?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141267.899782896.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, roof or river?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141788.299992085.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669704061.299807072.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the closest object to me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS03/interval5_CAM/1698133278.499780178.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, wild field or river?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138050.098748995.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the closest object to me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698133967.399830103.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, roof or wild field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137784.609144585.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, roof or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133589.072932515.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the closest object to me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669704162.299974918.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the closest object to me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131965.642878465.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610188.599925995.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or paved motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698226899.999975920.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138024.100811535.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, roof or paved motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671609971.399990082.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, paved motor road or airstrip?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133268.085276308.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or paved motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698218033.099876165.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or paved motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606581.699814796.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or container?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610095.099890947.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the closest object to me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607498.199785948.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, container or paved motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217739.599821091.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, container or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217674.399911880.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, container or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220109.799811125.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, container or airstrip?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133586.072504424.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131851.647791510.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131859.647336328.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the closest object to me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138342.584176731.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or paved walk?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133585.571141454.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132980.596006288.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or paved walk?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133378.081218067.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, transparent roof or roof?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132148.136933976.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or transparent roof?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133386.579558432.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137488.124135926.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or transparent roof?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137724.612221388.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or transparent roof?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133278.085544662.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or transparent roof?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141860.899983883.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, traffic barrier or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669704169.799813986.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, roof or traffic barrier?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669704135.299808979.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607405.199898958.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the closest object to me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607409.699875116.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the closest object to me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698226854.499819040.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228482.454772261.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, wild field or bridge?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228802.939128905.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or bridge?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131986.143391524.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the closest object to me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228803.440925901.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228802.441697232.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or bridge?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133049.592425443.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137981.102890883.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or sedan?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "sedan"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230521.005628312.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the closest object to me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "sedan"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698133995.399981976.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, sedan or wild field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "sedan"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607425.699824810.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, sedan or wild field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "sedan"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671609968.399875164.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, sedan or wild field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "sedan"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607680.099893093.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, sedan or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "sedan"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217747.099922895.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, umbrella or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610049.899888039.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, umbrella or paved motor road?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607490.699800014.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, umbrella or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606743.199897051.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, umbrella or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220117.299909115.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or umbrella?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220083.799818039.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, umbrella or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228400.459071908.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "pool"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229831.558009439.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, pool or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "pool"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228507.952497311.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, wild field or pool?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "pool"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228521.453709585.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, wild field or pool?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "pool"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228974.932327674.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the farthest object from me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "pool"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228522.453399779.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, wild field or pool?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "pool"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227066.099824905.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, truck or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610070.899900913.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, truck or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227051.599839926.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, truck or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606699.199844122.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, truck or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133227.087502357.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or truck?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220053.699778080.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, truck or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131945.644455875.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or solar board?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131907.146999505.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or solar board?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131907.146999505.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, green field or solar board?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132976.594637367.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, solar board or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131917.645992633.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, roof or solar board?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132972.097500844.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is farther from me, paved motor road or solar board?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS03/interval5_CAM/1698133236.999877930.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, river or wild field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS03/interval5_CAM/1698133233.999898911.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the closest object to me in the image?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230617.502152857.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, dirt motor road or green field?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141264.899813890.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nWhich is closer to me, dirt motor road or traffic barrier?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  }
+]

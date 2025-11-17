@@ -1,0 +1,502 @@
+[
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227041.099849939.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give the bounding box for the small container in the top-right corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1284, 0, 1554, 346]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228980.437487025.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate all bridges and provide their bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1939, 1401, 1996, 1489], [686, 1766, 800, 1888]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702109.899987936.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the small traffic barrier? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1692, 851, 1937, 1093]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606911.199841976.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate all paved motor roads and provide their bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1730, 0, 2218, 352], [77, 402, 1706, 2047], [1569, 461, 1578, 472]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610102.099908113.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the umbrella in the top center? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[979, 344, 1044, 516]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228987.931868745.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate all pools and provide their bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2346, 687, 2381, 753], [1606, 1366, 1677, 1434]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671609967.399823904.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the container in the top-left corner? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[0, 0, 341, 470]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230701.495990834.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the bridge in the bottom-right corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2035, 1716, 2173, 1818]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217513.899913073.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the airstrip at the center and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[0, 768, 2447, 1493]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228398.956822616.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Detect all dirt motor roads in the image and return their bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[331, 0, 2447, 1033], [0, 992, 2447, 1698]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228970.436123051.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the pool at the right side and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1654, 1221, 1713, 1295]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132406.126643413.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding boxes for all 161 paved walks. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[229, 0, 245, 9], [259, 0, 275, 11], [180, 0, 2074, 2047], [1329, 0, 1343, 10], [1356, 0, 1399, 15], [1434, 0, 1476, 25], [1641, 0, 1663, 9], [2021, 0, 2036, 15], [2068, 0, 2101, 17], [2232, 0, 2249, 10], [2220, 0, 2447, 205], [2312, 0, 2332, 10], [2403, 0, 2447, 48], [2038, 3, 2227, 246], [1918, 53, 1943, 90], [511, 61, 526, 76], [2440, 62, 2447, 77], [347, 69, 362, 83], [1991, 73, 2028, 105], [2062, 89, 2089, 128], [2012, 102, 2053, 129], [1954, 126, 1975, 155], [2039, 133, 2104, 217], [1600, 134, 1690, 184], [2231, 137, 2333, 187], [2012, 149, 2027, 163], [2129, 153, 2180, 199], [884, 156, 904, 171], [2086, 156, 2101, 170], [913, 177, 928, 194], [1646, 179, 1687, 218], [1408, 182, 1432, 212], [198, 184, 224, 212], [2037, 184, 2447, 463], [1520, 196, 1537, 212], [1363, 197, 1402, 237], [1942, 199, 1957, 213], [2101, 203, 2153, 253], [1439, 212, 1461, 232], [212, 220, 231, 233], [1725, 220, 1745, 236], [1685, 225, 1709, 241], [1470, 226, 1491, 250], [224, 239, 241, 260], [472, 240, 487, 256], [199, 246, 219, 280], [1470, 258, 1483, 271], [1003, 269, 1025, 291], [568, 294, 582, 307], [356, 301, 404, 331], [1681, 307, 1701, 325], [1652, 309, 1676, 345], [1551, 311, 1568, 326], [385, 330, 407, 349], [2060, 336, 2081, 356], [2083, 339, 2096, 352], [198, 344, 212, 358], [1949, 351, 1965, 367], [2418, 406, 2442, 434], [2050, 419, 2067, 436], [1270, 424, 1289, 442], [2096, 426, 2132, 448], [282, 429, 298, 446], [1709, 431, 1727, 451], [2000, 434, 2091, 463], [1422, 437, 1437, 450], [1941, 437, 1982, 459], [2376, 438, 2389, 451], [2411, 449, 2424, 465], [2098, 450, 2112, 464], [1158, 457, 1186, 478], [1229, 473, 1242, 487], [1141, 478, 1159, 498], [1248, 492, 1262, 505], [1508, 509, 1552, 592], [1250, 518, 1281, 541], [1484, 564, 1514, 601], [242, 591, 271, 631], [177, 623, 219, 688], [202, 641, 271, 726], [1522, 688, 1545, 713], [162, 718, 410, 1206], [252, 850, 279, 880], [1471, 924, 1530, 971], [226, 1087, 260, 1127], [150, 1200, 376, 1278], [385, 1232, 404, 1254], [326, 1250, 367, 1311], [272, 1251, 287, 1265], [151, 1269, 184, 1300], [220, 1283, 313, 1415], [217, 1294, 237, 1319], [129, 1310, 404, 1836], [188, 1323, 202, 1337], [148, 1325, 185, 1397], [246, 1382, 312, 1443], [182, 1385, 195, 1398], [207, 1396, 222, 1410], [145, 1432, 161, 1450], [177, 1434, 190, 1447], [1073, 1434, 1086, 1447], [197, 1435, 266, 1490], [136, 1457, 164, 1486], [140, 1493, 159, 1513], [327, 1551, 368, 1583], [241, 1557, 256, 1575], [223, 1576, 249, 1597], [1479, 1580, 1492, 1598], [228, 1596, 279, 1621], [1384, 1667, 1398, 1680], [1893, 1719, 1913, 1740], [2063, 1724, 2447, 2015], [624, 1737, 746, 1801], [2285, 1742, 2320, 1777], [1817, 1748, 1831, 1756], [129, 1753, 143, 1769], [588, 1764, 605, 1779], [418, 1778, 702, 1925], [138, 1786, 166, 1810], [1403, 1798, 1415, 1813], [1851, 1798, 1865, 1810], [711, 1810, 759, 1836], [123, 1813, 212, 1882], [1969, 1816, 2004, 1841], [1987, 1818, 2091, 1944], [1576, 1821, 1587, 1832], [293, 1824, 311, 1850], [323, 1827, 343, 1846], [1772, 1831, 1785, 1841], [119, 1837, 426, 2047], [470, 1839, 487, 1856], [444, 1841, 464, 1858], [2004, 1843, 2016, 1878], [530, 1848, 556, 1874], [415, 1861, 484, 1918], [1015, 1873, 1070, 1921], [2327, 1877, 2351, 1911], [125, 1878, 150, 1903], [1706, 1878, 1720, 1890], [1873, 1882, 1886, 1895], [653, 1887, 680, 1916], [126, 1888, 192, 1966], [1566, 1890, 1578, 1900], [1736, 1897, 1746, 1905], [1716, 1900, 1734, 1916], [685, 1909, 722, 1931], [1957, 1911, 1978, 1925], [2079, 1913, 2093, 1927], [1753, 1927, 1762, 1937], [2284, 1940, 2306, 1966], [2036, 1947, 2064, 1972], [197, 1954, 210, 1970], [1266, 1961, 1281, 1976], [2324, 1969, 2382, 2012], [1871, 1972, 1895, 1989], [1849, 1973, 1860, 1985], [2290, 1976, 2316, 2002], [2438, 1978, 2447, 2007], [2420, 2005, 2443, 2029], [1021, 2009, 1062, 2047], [1275, 2037, 1308, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698218177.199970961.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding boxes for all 2 airstrips. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[737, 0, 1225, 2047], [1905, 1302, 2447, 1691]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228497.952910548.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the pool at the top center and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1280, 46, 1345, 121]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219158.299835920.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the car park in the top-right corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1144, 52, 1707, 809]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131948.145816822.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Find all instances of paved walk and provide bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2154, 540, 2447, 1155], [2335, 1178, 2401, 1255]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658230036.052881352.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate all roofs and provide their bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2036, 115, 2131, 216], [2046, 380, 2180, 572], [1888, 631, 2054, 799], [1918, 867, 1998, 943], [1065, 1150, 1109, 1188], [928, 1170, 1023, 1271], [1117, 1237, 1300, 1409]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607430.699980021.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding boxes for all 3 car parks. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[387, 0, 762, 350], [331, 263, 529, 430], [222, 350, 473, 552]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132405.624710051.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What are the coordinates of all paved walks? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[167, 0, 2447, 2047], [1116, 0, 1137, 7], [1313, 0, 1385, 58], [1379, 0, 1477, 68], [1489, 0, 1566, 39], [1733, 0, 1863, 65], [1830, 0, 1855, 11], [1861, 0, 1900, 24], [1904, 0, 1968, 46], [2007, 0, 2033, 10], [2040, 0, 2067, 9], [2140, 0, 2169, 27], [2439, 0, 2447, 16], [1696, 2, 1734, 41], [2353, 4, 2443, 90], [246, 6, 270, 31], [1354, 6, 1371, 24], [2166, 15, 2189, 37], [2146, 50, 2169, 69], [2386, 95, 2447, 118], [1688, 109, 1702, 125], [2371, 123, 2393, 140], [2392, 140, 2405, 153], [1952, 162, 1967, 178], [893, 194, 913, 208], [1368, 231, 1395, 255], [1505, 232, 1530, 258], [1909, 233, 1923, 247], [1462, 258, 1475, 271], [1663, 258, 1686, 274], [2415, 307, 2447, 378], [1686, 456, 1703, 481], [2360, 469, 2388, 487], [292, 1061, 306, 1079], [305, 1243, 320, 1267], [186, 1310, 233, 1409], [224, 1313, 239, 1330], [243, 1384, 256, 1397], [174, 1443, 206, 1498], [406, 1465, 428, 1493], [387, 1503, 421, 1536], [1467, 1559, 1481, 1574], [236, 1563, 255, 1579], [1371, 1645, 1390, 1659], [945, 1692, 968, 1721], [1988, 1696, 2447, 2047], [1943, 1697, 1954, 1704], [1787, 1713, 1798, 1723], [167, 1729, 180, 1743], [219, 1753, 256, 1785], [155, 1758, 454, 2047], [1921, 1765, 1937, 1780], [2263, 1774, 2283, 1790], [346, 1781, 360, 1794], [442, 1784, 509, 1888], [1932, 1786, 1984, 1839], [169, 1788, 183, 1801], [552, 1821, 577, 1844], [1676, 1835, 1687, 1843], [1831, 1835, 1844, 1853], [163, 1851, 186, 1873], [1686, 1851, 1714, 1866], [2424, 1873, 2442, 1889], [1957, 1874, 1970, 1881], [660, 1881, 674, 1895], [1723, 1886, 1737, 1902], [226, 1912, 244, 1938], [1810, 1919, 1847, 1952], [1568, 1925, 1589, 1937], [1613, 1929, 1663, 1946], [1956, 1931, 1967, 1943], [1846, 1932, 1878, 1955], [2426, 1940, 2445, 1957], [2250, 1941, 2273, 1966], [1317, 2018, 1332, 2033], [294, 2028, 327, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606708.199814796.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Find all instances of green field and provide bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[0, 0, 464, 342], [0, 0, 2447, 2047], [0, 1063, 953, 1818]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137419.127726337.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Find all instances of truck and provide bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[228, 636, 346, 708], [231, 812, 373, 886]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227494.399995804.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give the bounding box for the smallest container in the bottom-left corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[601, 2010, 638, 2035]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228745.444292663.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give the bounding box for the smallest wild field in the bottom-right corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2186, 1603, 2435, 1726]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228522.951505385.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the bridge in the center. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[904, 649, 1041, 783]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671607149.199992180.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the airstrip at the center and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[944, 0, 1445, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606777.699813128.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the green field in the top center? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[859, 414, 1065, 687]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219015.699996948.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Find all instances of airstrip and provide bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2136, 0, 2447, 759], [0, 153, 2447, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132058.140527564.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What are the bounding boxes of all trucks in this image? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2240, 712, 2326, 772], [1294, 1073, 1406, 1156]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228748.941686336.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the pool at the bottom-right corner and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1255, 1792, 1571, 1941]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133165.587014158.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the smallest roof at the bottom-right corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2060, 1365, 2237, 1539]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227082.099987030.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the airstrip at the top-left corner and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[0, 344, 420, 892]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698131852.899994135.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the dirt motor road in the top center? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[778, 574, 797, 624]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland03/interval5_CAM/1669702639.499783993.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the traffic barrier in the top-right corner? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2080, 413, 2154, 732]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698132360.799889803.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the river in the center? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[0, 0, 2447, 1724]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228511.453660463.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What are the coordinates of all pools? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1857, 32, 1919, 98], [908, 409, 981, 486]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228965.933222517.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the bridge at the bottom-left corner and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[0, 1851, 83, 1952]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133423.080029870.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the solar board at the top-left corner and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[6, 0, 65, 79]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229876.556829104.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the bridge at the left side and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[136, 614, 297, 756]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132162.635177911.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the pool at the bottom center and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[648, 1438, 719, 1502]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230916.990096608.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate all pools and provide their bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2317, 578, 2352, 643], [1579, 1254, 1646, 1320]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219033.199954987.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Find all instances of umbrella and provide bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[540, 360, 600, 428], [482, 454, 535, 513]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228799.442095019.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the bridge in the right side. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1645, 1089, 1830, 1190]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137571.619240517.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Find all instances of dirt motor road and provide bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[0, 0, 2447, 1380], [876, 1494, 1104, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698226967.099930048.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the container in the top-left corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[221, 277, 579, 737]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133419.577567586.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the truck in the top-left corner? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[100, 445, 254, 532]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607490.199973822.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the airstrip at the right side and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1800, 567, 2186, 1202]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131967.642701926.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate a smallest truck and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1340, 1702, 1438, 1756]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228750.942553153.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the pool at the bottom-right corner and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1313, 1769, 1623, 1916]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132106.637086680.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the truck at the bottom center and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[738, 1991, 853, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132253.633329468.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate a smallest solar board and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2354, 407, 2447, 481]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228550.950708592.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the bridge in the bottom-right corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2019, 1595, 2182, 1676]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220104.299962044.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the small container? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[0, 0, 253, 297]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606663.199914932.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the paved motor road in the top-right corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1442, 0, 2447, 262]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607423.199781895.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the container in the top-left corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[0, 0, 312, 530]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217810.599939108.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the sedan in the right side. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1431, 679, 1512, 758]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132964.096986141.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for a solar board. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[68, 582, 305, 809]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607524.199781895.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the umbrella at the top center and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[835, 343, 902, 516]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607674.099880934.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate all paved motor roads and provide their bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[254, 0, 984, 814], [1200, 0, 2447, 501]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702038.899935961.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the roof at the top-right corner and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1134, 0, 1802, 423]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141614.499994040.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the river in the center? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[0, 673, 2447, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220184.299972057.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What are the coordinates of all paved motor roads? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1777, 0, 2115, 303], [1394, 333, 1753, 1074], [129, 1106, 1352, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133035.593099314.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the dirt motor road in the top center. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[16, 0, 2447, 1340]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217468.899807930.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the container in the top-right corner? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2069, 91, 2447, 309]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133580.572640937.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the paved walk in the center. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[744, 585, 1341, 1450]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137194.636658534.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What are the coordinates of all trucks? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1724, 1498, 1776, 1609], [1409, 1726, 1523, 1787]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230911.991167462.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Detect all bridges in the image and return their bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1737, 1495, 1789, 1584], [431, 1838, 564, 1968]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230544.003699849.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Find all instances of wild field and provide bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[319, 0, 2447, 2047], [0, 47, 1016, 991], [700, 548, 1371, 1360], [0, 1044, 745, 2047], [1282, 1391, 1323, 1425], [1002, 1424, 1547, 2047], [0, 1784, 200, 2047], [706, 1974, 767, 2022]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137172.636895232.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Find all instances of truck and provide bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2281, 800, 2355, 905], [2189, 1318, 2269, 1369]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606685.199992180.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the truck in the top center? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1082, 53, 1277, 173]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217827.099933863.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate a smallest umbrella and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2347, 534, 2398, 589]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658231144.579595581.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Find all instances of green field and provide bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[0, 1584, 37, 1909], [0, 1941, 18, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228809.441688654.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the pool in the bottom-right corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1787, 1912, 1881, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132972.097500844.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the paved walk in the right side. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1301, 519, 1860, 1396]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698219926.999978065.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate all paved motor roads and provide their bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2359, 0, 2447, 69], [1897, 1664, 2447, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217719.099807024.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the truck in the top center? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[951, 248, 1140, 324]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141091.599895000.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the green field at the bottom center and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[308, 1797, 1546, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219296.599776983.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Find all instances of traffic barrier and provide bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[816, 324, 839, 410], [884, 514, 1130, 646], [1110, 725, 1178, 847], [1462, 1209, 1538, 1355], [1598, 1280, 1674, 1446], [1560, 1475, 1602, 1555], [1663, 1556, 1716, 1616]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228530.950764387.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Provide the bounding box for the medium wild field. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[251, 724, 1169, 1348]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137103.639115844.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding boxes for all 2 solar boards. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[73, 563, 319, 793], [168, 693, 451, 922]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133315.084031539.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the truck in the bottom-right corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1782, 1789, 1918, 1870]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219306.099880934.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the umbrella in the top-right corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2086, 0, 2136, 21]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607695.099894047.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the paved motor road in the bottom-right corner? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2126, 1953, 2447, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227182.599915028.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the car park at the top-right corner and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2168, 429, 2447, 900]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133280.582880037.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the transparent roof in the right side? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1682, 547, 1838, 916]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137850.606931084.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the sedan in the bottom center? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[747, 1873, 857, 1944]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220299.299793005.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the car park in the top-left corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[0, 90, 154, 360]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137197.636610862.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the transparent roof in the bottom center? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[987, 1379, 1199, 1503]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137485.126446358.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding boxes for all 12 roofs. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2130, 0, 2443, 88], [2268, 801, 2382, 915], [2261, 916, 2447, 1217], [1673, 949, 2045, 1442], [796, 958, 863, 1065], [1225, 1025, 1328, 1119], [938, 1095, 1177, 1599], [722, 1137, 877, 1436], [0, 1359, 381, 1868], [646, 1452, 896, 1652], [407, 2015, 504, 2047], [837, 2015, 886, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132961.596218582.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding boxes for all 2 solar boards. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[33, 580, 282, 808], [121, 709, 412, 936]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131958.643246759.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the truck in the right side. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2387, 1314, 2447, 1365]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217998.099815845.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the green field in the top-left corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[137, 141, 162, 163]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133185.088290143.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the sedan in the center. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[925, 801, 977, 877]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137243.134881634.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the truck in the bottom center? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[1009, 1962, 1060, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138324.086475800.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What is the bounding box of the smallest solar board? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2255, 1520, 2447, 1680]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702387.499840975.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate all dirt motor roads and provide their bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[715, 1450, 1104, 1767], [223, 1494, 657, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607673.099992037.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the container at the top-left corner and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[0, 0, 408, 780]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698219987.499969959.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: What are the bounding boxes of all airstrips in this image? Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[2293, 0, 2447, 214], [794, 892, 2447, 1495]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228520.951784394.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate the bridge at the center and provide its bounding box. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[802, 645, 937, 781]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133110.589377752.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Locate all green fields and provide their bounding boxes. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[0, 0, 645, 1090], [0, 0, 1651, 2047], [786, 0, 2297, 2047], [1511, 0, 2447, 2047]]</bbox>"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137127.139914884.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image and a question about locating or describing an object: Give me the bounding box for the solar board in the top-left corner. Return only the bounding box coordinates in the format: <bbox>[[x1, y1, x2, y2],[x1, y1, x2, y2]...]</bbox>. Do not include extra text or reasoning.",
+    "ground_truth": "<bbox>[[286, 534, 538, 767]]</bbox>"
+  }
+]

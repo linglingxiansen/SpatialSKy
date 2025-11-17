@@ -1,0 +1,702 @@
+[
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131867.647914930.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (1214, 1767)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133591.072653112.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat category does the object at (982, 1040) belong to?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217510.899887085.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIdentify the object at coordinates (335, 757).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131863.646522594.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat can you see at point (1830, 1721)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698226904.999984980.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (1117, 299), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132131.138881355.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIdentify the object at coordinates (221, 780).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "sedan"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132365.627440986.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat category does the object at (1653, 1763) belong to?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606783.199877977.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nTell me what object is at (1473, 246).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698140937.799834967.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (1728, 460), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137195.137049515.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (850, 1414), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698219974.499981165.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (970, 1703)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "wild field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133275.086805189.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is located at position (919, 755)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217647.899818897.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (230, 60)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229880.556227585.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (1660, 172)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "green field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132117.139118433.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (2333, 694)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230678.999217463.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (412, 664)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137726.113686625.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (1252, 689), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138327.584852595.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is located at position (1258, 1012)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133191.587002795.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIdentify the object at coordinates (11, 368).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137088.142592120.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat category does the object at (1343, 338) belong to?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219157.299977064.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nTell me what object is at (544, 724).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698134333.399877071.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nTell me what object is at (1466, 198).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698219959.499774933.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (447, 414), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607666.099915981.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nTell me what object is at (147, 391).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698226872.999886990.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (387, 623)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133411.579133515.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is located at position (710, 1133)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "wild field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland03/interval5_CAM/1669702638.999936104.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is located at position (1459, 1154)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698218144.699885130.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nTell me what object is at (17, 1529).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220304.799926043.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nTell me what object is at (1118, 241).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220210.999840975.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat category does the object at (22, 229) belong to?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220118.299804926.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (2209, 638), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133145.090462408.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is located at position (733, 1696)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "wild field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607436.699962139.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat can you see at point (265, 257)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137140.139735252.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (2396, 424), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133274.085015886.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nTell me what object is at (826, 835).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138047.099336878.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat can you see at point (1295, 1540)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "sedan"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137499.622340767.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat category does the object at (284, 1533) belong to?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133595.073282343.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nTell me what object is at (1277, 978).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS03/interval5_CAM/1698132982.299891949.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is located at position (2339, 1307)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137449.126114436.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (2164, 1526)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137735.113935291.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (729, 335)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "sedan"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606924.199984789.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (975, 1939), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217527.899960041.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (2395, 988), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220280.799890995.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (10, 1649), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669704019.799957991.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (644, 1984)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "green field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137874.604963406.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nTell me what object is at (1682, 1658).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137088.142592120.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat can you see at point (157, 421)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133023.095514622.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nTell me what object is at (2119, 1163).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698218013.099921942.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is located at position (168, 747)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229883.556519363.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat category does the object at (1209, 706) belong to?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132031.143248512.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat category does the object at (2327, 905) belong to?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "wild field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132068.638626550.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat category does the object at (1533, 1698) belong to?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698140689.799823046.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIdentify the object at coordinates (1297, 1144).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606791.699820995.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat category does the object at (1917, 332) belong to?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702409.499845982.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (864, 51), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698131837.399914980.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (68, 16), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698219969.499846935.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (2089, 676), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137237.635200790.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat can you see at point (1306, 125)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137267.134768879.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat can you see at point (1565, 1191)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230823.995304856.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (1668, 1167), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229867.556849169.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nTell me what object is at (279, 174).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137445.125809621.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIdentify the object at coordinates (162, 1173).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137898.105999235.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIdentify the object at coordinates (2432, 722).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "green field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698218985.199931860.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat category does the object at (363, 231) belong to?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228483.455760586.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIdentify the object at coordinates (546, 409).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698131812.399993181.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat can you see at point (200, 919)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "wild field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland03/interval5_CAM/1669702605.999825001.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIdentify the object at coordinates (935, 1791).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "wild field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132930.596121707.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is located at position (1441, 1278)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702334.899824142.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat category does the object at (892, 1978) belong to?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "green field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698131858.399883986.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIdentify the object at coordinates (1447, 335).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141872.899904966.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIdentify the object at coordinates (1444, 411).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607449.199876070.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (626, 697), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133001.593969766.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is located at position (652, 574)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702426.999814987.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIdentify the object at coordinates (2244, 1997).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "wild field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606667.699816942.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (1711, 618), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219208.299963951.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is located at position (1397, 1216)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137955.106514914.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat category does the object at (25, 5) belong to?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved motor road"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217621.399811029.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (1032, 237), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698140852.299813986.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (1810, 1316)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137875.604886795.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (1688, 1509)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "transparent roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137434.127087877.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIdentify the object at coordinates (1536, 675).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606659.699840069.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (1294, 388)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669703900.199779034.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nClick on (559, 1747), what is there?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "river"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671607067.199875116.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is located at position (1338, 1677)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606597.199878931.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat category does the object at (1624, 128) belong to?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227106.599978924.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is located at position (1952, 574)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610324.099991083.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat category does the object at (1206, 1658) belong to?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132953.098075775.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat can you see at point (2109, 1103)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230671.002375483.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIdentify the object at coordinates (1049, 391).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698218183.199930906.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (1256, 625)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217667.899984837.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (1321, 1844)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "green field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132947.595769227.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nTell me what object is at (189, 721).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606492.699917078.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is located at position (480, 445)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137420.625414851.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat can you see at point (1285, 1757)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671609942.899919033.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nTell me what object is at (728, 700).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137238.636077712.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat object is at point (735, 1991)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610053.399907112.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nTell me what object is at (988, 183).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669703574.099842072.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is located at position (906, 436)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "dirt motor road"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228760.941108298.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nTell me what object is at (753, 1667).\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132986.594751658.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat can you see at point (1842, 691)?\nChoose from the follow object categories: background, roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  }
+]

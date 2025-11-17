@@ -1,0 +1,502 @@
+[
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132149.138592298.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many transparent roofs are visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{3}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133011.095919302.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the wild fields in this scene.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{3}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227259.099888086.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of barriers?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{3}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132004.641820510.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the sedans in this aerial image.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{3}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669704118.299835920.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many traffic barriers are visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{3}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137375.628106437.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of roofs in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{3}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229830.558225808.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many dirt roads are visible in this image?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{3}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698133948.399995804.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the green fields visible.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{3}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698134205.399891853.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the number of vegetated fields?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{3}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227509.399878979.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of containers?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{3}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610080.899977922.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many trucks are visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{1}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137860.107429933.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the number of transparent roofs?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{1}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607663.099910975.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the number of airstrips present?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{1}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132955.097746709.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many dirt roads are visible in this image?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{1}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133585.571141454.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the paved walks in this scene.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{1}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137083.142375546.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the number of paved paths?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{1}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606703.699826956.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many trucks are visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{1}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606731.699813128.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the number of trucks present?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{1}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141250.399821043.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the traffic barriers in this image.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{1}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606913.199785948.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the dirt motor roads in this aerial view.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{1}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland03/interval5_CAM/1669702735.299829960.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of wild fields?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{5}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698219989.499804974.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the traffic barriers in this image.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{5}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227535.899907112.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many green fields are in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{5}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610301.099983215.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of barriers?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{5}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230680.999395488.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the wild fields in this scene.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{5}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606537.699900866.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of containers?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{5}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702288.399817944.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many rivers are in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{5}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702395.499877214.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the green fields visible.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{5}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606796.199970961.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of containers?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{5}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS03/interval5_CAM/1698133004.299925089.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of barriers?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{5}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219282.599828959.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the number of airstrips present?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{2}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137143.141017710.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of solar installations?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{2}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132987.594545136.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the solar boards in this image.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{2}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland03/interval5_CAM/1669702865.399920940.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many roofs are in this image?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{2}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228489.457620432.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of pools in this view?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{2}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698132014.899887085.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many wild fields are visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{2}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137783.608843517.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the dirt motor roads in this aerial view.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{2}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669703584.099952221.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the number of unpaved roads in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{2}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698132321.799845934.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the rivers visible in this aerial image.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{2}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607539.199838877.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many containers are visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{2}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228330.959804948.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the number of roofs visible in this aerial view.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{6}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228411.957376092.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of roofs in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{6}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland02/interval5_CAM/1669702073.899898767.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the green fields visible.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{6}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228339.460988421.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many roofs are in this image?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{6}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698134318.399821043.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many traffic barriers are visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{6}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229812.559404372.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of roofs in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{6}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606479.699810982.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of barriers?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{6}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland03/interval5_CAM/1669702657.999896049.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many green fields are in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{6}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219160.299988985.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many traffic barriers are visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{6}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229765.062278520.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the number of roofs visible in this aerial view.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{6}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220306.799952984.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of cars visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{7}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230843.491257657.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many roofs are in this image?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{7}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137356.129912814.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many roofs are in this image?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{7}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217498.899994850.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many traffic barriers are visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{7}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227520.399888992.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many traffic barriers are visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{7}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228770.940921689.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of roofs in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{7}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219298.599905014.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the traffic barriers in this image.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{7}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS03/interval5_CAM/1698133274.499994040.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many traffic barriers are visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{7}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137953.604795482.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the number of unpaved roads in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{7}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658229341.817193665.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the wild fields in this scene.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{7}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669703855.699999094.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the number of rivers present?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{4}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607502.199984074.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of containers?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{4}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698218183.199930906.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the green fields visible.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{4}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228748.941686336.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the number of roofs visible in this aerial view.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{4}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227278.099849939.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many green fields are in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{4}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217780.099919081.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many containers are visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{4}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698131857.899930000.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the rivers visible in this aerial image.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{4}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137811.110858970.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the dirt motor roads in this aerial view.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{4}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220221.999990940.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the paved motor roads in this image.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{4}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606540.199779987.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of car parks?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{4}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698218165.199997902.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the sedans in this aerial image.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{9}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141580.999877214.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many rivers are in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{9}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133027.096535666.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the number of vegetated fields?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{9}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230642.498687943.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the wild fields in this scene.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{9}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131993.642143122.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many roofs are in this image?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{9}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217798.099895954.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many traffic barriers are visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{9}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698140968.799802065.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the number of rivers present?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{9}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698140972.799826860.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many rivers are in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{9}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137664.615049416.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many roofs are in this image?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{9}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137971.600901042.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of roofs in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{9}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141036.099990129.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the rivers visible in this aerial image.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{10}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132381.128083436.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the number of roofs visible in this aerial view.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{10}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229765.062278520.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of wild fields?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{10}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698132125.799839973.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the number of rivers present?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{10}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228813.440412024.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many roofs are in this image?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{10}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698132145.499968052.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the number of rivers present?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{10}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137663.116632629.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the number of roofs visible in this aerial view.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{10}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228436.955882460.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many wild fields are visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{10}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606779.699986935.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many sedans can you count?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{10}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132190.634472386.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of roofs in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{10}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133404.578673624.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of cars visible?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{8}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228843.439359865.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of wild fields?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{8}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230883.490073086.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the wild fields in this scene.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{8}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS03/interval5_CAM/1698133151.199900866.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the number of rivers present?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{8}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228314.960278297.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: Count the wild fields in this scene.. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{8}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698132235.499969006.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: How many rivers are in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{8}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS03/interval5_CAM/1698133164.199966908.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the number of rivers present?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{8}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658231106.082897052.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of wild fields?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{8}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137882.106970041.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of roofs in this scene?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{8}"
+  },
+  {
+    "image": "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229767.062811821.jpg",
+    "question": "<image>\nYou are a vision-language assistant.\nGiven an image, answer this question: What is the total number of wild fields?. Put your answer in this format: <//boxed>{number}.",
+    "ground_truth": "<//boxed>{8}"
+  }
+]

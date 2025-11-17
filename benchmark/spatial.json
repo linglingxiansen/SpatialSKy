@@ -1,0 +1,702 @@
+[
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610040.899824142.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the sedan relative to the car park?\n\nOptions:\nA. below\nB. above\nC. right\nD. lower side\nE. close\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606759.199813843.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the sedan relative to the roof?\n\nOptions:\nA. lower-left\nB. top\nC. nearby\nD. lower-right\nE. right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610328.099876165.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the sedan relative to the sedan?\n\nOptions:\nA. upper side\nB. upper-right\nC. lower side\nD. lower-left\nE. right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland03/interval5_CAM/1669702772.099877834.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat object is in the lower-right of the green field?\n\nOptions:\nA. wild field\nB. river\nC. truck\nD. transparent roof\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228389.957011336.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn which area of the image is the wild field located?\n\nOptions:\nA. located in the top\nB. located in the center\nC. right\nD. located in the top-left\nE. in the top\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217515.399877071.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the traffic barrier relative to the traffic barrier?\n\nOptions:\nA. right side\nB. bottom-right\nC. close\nD. top-left\nE. lower side\nF. upper-right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217662.399817944.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the umbrella relative to the container?\n\nOptions:\nA. left\nB. right side\nC. top\nD. lower-right\nE. bottom-left\nF. bottom-right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698134194.899997950.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere is the river in the image?\n\nOptions:\nA. the top-left area\nB. the top area\nC. bottom\nD. in the left\nE. right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228974.932327674.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat region contains the roof?\n\nOptions:\nA. in the bottom-right\nB. the bottom-left area\nC. bottom-right\nD. center\nE. located in the left\nF. located in the center\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610132.599898100.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn what direction is the traffic barrier from the green field?\n\nOptions:\nA. bottom-right\nB. right\nC. nearby\nD. close\nE. lower-right\nF. below\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138021.100354002.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat object is to the top-left of the roof?\n\nOptions:\nA. traffic barrier\nB. roof\nC. transparent roof\nD. green field\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219119.699876070.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere can you find the sedan?\n\nOptions:\nA. in the top-left\nB. bottom\nC. center\nD. the top area\nE. right\nF. in the right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133192.089139042.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat object is in the upper-left of the green field?\n\nOptions:\nA. wild field\nB. pool\nC. traffic barrier\nD. roof\nE. transparent roof\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228537.951333405.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is in the upper-right of the roof?\n\nOptions:\nA. dirt motor road\nB. bridge\nC. river\nD. pool\nE. umbrella\nF. transparent roof\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133285.582619572.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the roof relative to the roof?\n\nOptions:\nA. upper-right\nB. left side\nC. lower-left\nD. bottom-right\nE. bottom-left\nF. top-left\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137437.624693608.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat object is below the truck?\n\nOptions:\nA. car park\nB. green field\nC. umbrella\nD. wild field\nE. truck\nF. paved walk\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606642.199980021.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the container relative to the container?\n\nOptions:\nA. bottom-left\nB. bottom\nC. right side\nD. lower side\nE. right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658230215.045344650.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn what direction is the sedan from the roof?\n\nOptions:\nA. top\nB. above\nC. right side\nD. upper-left\nE. upper side\nF. upper-right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228847.439524648.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat object is in the lower-right of the roof?\n\nOptions:\nA. airstrip\nB. paved motor road\nC. truck\nD. green field\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610318.599887848.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn what direction is the sedan from the roof?\n\nOptions:\nA. lower side\nB. below\nC. top\nD. right\nE. right side\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217677.899909019.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn which area of the image is the container located?\n\nOptions:\nA. in the bottom\nB. top-right\nC. located in the right\nD. top\nE. in the left\nF. located in the bottom-right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698131855.399831057.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat object is in the upper-right of the sedan?\n\nOptions:\nA. background\nB. roof\nC. paved walk\nD. transparent roof\nE. sedan\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698218128.199831963.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere can you find the container?\n\nOptions:\nA. bottom-left\nB. in the bottom-right\nC. the top area\nD. top-right\nE. top-left\nF. in the center\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229739.064677945.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat can be found to the top-left of the green field?\n\nOptions:\nA. truck\nB. traffic barrier\nC. solar board\nD. airstrip\nE. green field\nF. dirt motor road\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138287.586445408.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat can be found in the upper-left of the roof?\n\nOptions:\nA. truck\nB. dirt motor road\nC. solar board\nD. bridge\nE. paved motor road\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698218045.599977016.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn which area of the image is the dirt motor road located?\n\nOptions:\nA. the top-left area\nB. in the top-right\nC. top\nD. right\nE. the bottom-left area\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230598.501166505.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is to the bottom-right of the wild field?\n\nOptions:\nA. green field\nB. truck\nC. airstrip\nD. wild field\nE. river\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698131875.899924994.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat region contains the traffic barrier?\n\nOptions:\nA. the top-right area\nB. bottom-right\nC. in the left\nD. top-left\nE. center\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230595.501028942.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn which area of the image is the wild field located?\n\nOptions:\nA. bottom-right\nB. right\nC. the top-left area\nD. left\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132368.626812738.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere is the roof in the image?\n\nOptions:\nA. located in the right\nB. the top area\nC. bottom\nD. the bottom area\nE. in the top\nF. top-right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{F}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230791.493435092.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat object is to the left of the truck?\n\nOptions:\nA. traffic barrier\nB. dirt motor road\nC. airstrip\nD. roof\nE. background\nF. container\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141695.999982119.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is in the upper-left of the river?\n\nOptions:\nA. wild field\nB. paved walk\nC. container\nD. river\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137959.102853135.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn what direction is the roof from the roof?\n\nOptions:\nA. lower-left\nB. top-left\nC. upper-left\nD. upper-right\nE. above\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669704078.799834013.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat region contains the wild field?\n\nOptions:\nA. top\nB. bottom-right\nC. right\nD. located in the top-right\nE. top-left\nF. the bottom area\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137765.611030219.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is in the lower-right of the roof?\n\nOptions:\nA. roof\nB. transparent roof\nC. truck\nD. container\nE. green field\nF. pool\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219311.599776983.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat can be found to the bottom-right of the green field?\n\nOptions:\nA. airstrip\nB. paved walk\nC. green field\nD. wild field\nE. car park\nF. traffic barrier\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{F}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133379.081266371.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere can you find the transparent roof?\n\nOptions:\nA. the top area\nB. top\nC. located in the top-left\nD. the bottom area\nE. located in the left\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217834.099984884.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere is the wild field in the image?\n\nOptions:\nA. the top area\nB. in the bottom-left\nC. located in the bottom\nD. the center area\nE. left\nF. bottom-right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{F}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606584.699830055.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat object is in the lower-left of the car park?\n\nOptions:\nA. bridge\nB. car park\nC. container\nD. roof\nE. truck\nF. sedan\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{F}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133266.583593300.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere is the wild field relative to the roof?\n\nOptions:\nA. top\nB. below\nC. lower-right\nD. close\nE. right side\nF. nearby\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698134319.399890900.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn which area of the image is the traffic barrier located?\n\nOptions:\nA. in the right\nB. the center area\nC. bottom-right\nD. located in the left\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228306.960756685.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn which area of the image is the roof located?\n\nOptions:\nA. the left area\nB. in the bottom\nC. in the top-left\nD. right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138163.592810263.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat region contains the green field?\n\nOptions:\nA. in the top-left\nB. located in the top-right\nC. the bottom-right area\nD. top-right\nE. bottom-left\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658229849.058797109.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere can you find the wild field?\n\nOptions:\nA. the right area\nB. in the bottom-left\nC. in the top\nD. located in the center\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698140777.599823952.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the river relative to the river?\n\nOptions:\nA. below\nB. upper-right\nC. bottom-left\nD. top\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219106.199813128.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the sedan relative to the sedan?\n\nOptions:\nA. top-left\nB. left\nC. bottom-left\nD. left side\nE. upper-right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228298.462449849.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn what direction is the wild field from the wild field?\n\nOptions:\nA. top-left\nB. lower-right\nC. upper-left\nD. left side\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137226.633948663.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat object is to the right of the green field?\n\nOptions:\nA. container\nB. pool\nC. airstrip\nD. green field\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132249.631514739.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat object is above the green field?\n\nOptions:\nA. traffic barrier\nB. green field\nC. transparent roof\nD. truck\nE. pool\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227534.899896145.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere can you find the sedan?\n\nOptions:\nA. the top-left area\nB. located in the bottom-right\nC. located in the top-right\nD. bottom-left\nE. the center area\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137657.116820165.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is to the bottom-left of the dirt motor road?\n\nOptions:\nA. bridge\nB. wild field\nC. green field\nD. truck\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669703553.099902868.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is in the lower-right of the sedan?\n\nOptions:\nA. bridge\nB. umbrella\nC. container\nD. airstrip\nE. traffic barrier\nF. sedan\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{F}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141226.899908066.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat object is in the lower-right of the dirt motor road?\n\nOptions:\nA. wild field\nB. traffic barrier\nC. umbrella\nD. transparent roof\nE. river\nF. container\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698134015.399877071.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere is the sedan relative to the sedan?\n\nOptions:\nA. lower-right\nB. upper-left\nC. upper side\nD. lower-left\nE. bottom-left\nF. lower side\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698140819.999976873.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat object is to the top-left of the river?\n\nOptions:\nA. roof\nB. sedan\nC. green field\nD. river\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133366.083788883.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat can be found to the bottom-right of the roof?\n\nOptions:\nA. bridge\nB. container\nC. roof\nD. river\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137988.102457155.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn what direction is the green field from the roof?\n\nOptions:\nA. top-left\nB. right\nC. bottom-right\nD. bottom-left\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138146.095601064.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat can be found on the right side of the green field?\n\nOptions:\nA. green field\nB. solar board\nC. car park\nD. paved motor road\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606530.199984789.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat region contains the sedan?\n\nOptions:\nA. located in the right\nB. top-right\nC. located in the bottom\nD. the center area\nE. the right area\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132975.098200173.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere can you find the sedan?\n\nOptions:\nA. the right area\nB. top-right\nC. in the right\nD. bottom-right\nE. in the bottom\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228813.938823217.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat can be found in the lower-left of the dirt motor road?\n\nOptions:\nA. bridge\nB. solar board\nC. container\nD. wild field\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607458.699909210.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the sedan relative to the container?\n\nOptions:\nA. top-right\nB. below\nC. top-left\nD. upper-right\nE. left side\nF. lower-left\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133179.088550284.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn which area of the image is the roof located?\n\nOptions:\nA. bottom-left\nB. located in the center\nC. the bottom-left area\nD. top-right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132107.637221360.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat object is in the upper-left of the roof?\n\nOptions:\nA. truck\nB. car park\nC. roof\nD. green field\nE. wild field\nF. background\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227091.099877834.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the sedan relative to the container?\n\nOptions:\nA. below\nB. top-right\nC. bottom\nD. left side\nE. upper-right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS03/interval5_CAM/1698133017.299994230.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere can you find the traffic barrier?\n\nOptions:\nA. located in the left\nB. the top area\nC. in the top-left\nD. located in the top\nE. center\nF. the bottom-left area\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132126.139092863.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn what direction is the roof from the roof?\n\nOptions:\nA. left side\nB. upper-right\nC. top-right\nD. lower-right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606535.699985981.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn what direction is the traffic barrier from the traffic barrier?\n\nOptions:\nA. lower-left\nB. bottom\nC. bottom-right\nD. upper-right\nE. upper-left\nF. lower-right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669704124.799811125.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn which area of the image is the dirt motor road located?\n\nOptions:\nA. located in the top\nB. located in the top-right\nC. top-right\nD. located in the center\nE. the bottom-left area\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131955.643760436.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat can be found left of the green field?\n\nOptions:\nA. river\nB. traffic barrier\nC. roof\nD. container\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137516.620886339.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the green field relative to the roof?\n\nOptions:\nA. upper-left\nB. top\nC. below\nD. top-left\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137782.610362939.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere is the green field in the image?\n\nOptions:\nA. in the top-right\nB. the top area\nC. in the top\nD. left\nE. located in the bottom-left\nF. center\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219115.199961185.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere is the umbrella in the image?\n\nOptions:\nA. in the bottom\nB. the top-left area\nC. the bottom-right area\nD. top-right\nE. bottom-left\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141370.299985886.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn what direction is the river from the river?\n\nOptions:\nA. bottom-right\nB. top-left\nC. top\nD. left\nE. below\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137295.134750570.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere is the sedan in the image?\n\nOptions:\nA. the top area\nB. the top-right area\nC. in the center\nD. center\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132263.631522341.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere can you find the roof?\n\nOptions:\nA. in the bottom\nB. located in the center\nC. bottom-right\nD. located in the bottom\nE. right\nF. bottom\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228480.457439111.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere can you find the pool?\n\nOptions:\nA. in the top-right\nB. located in the right\nC. top-left\nD. the top area\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606525.699970961.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the sedan relative to the sedan?\n\nOptions:\nA. top\nB. top-left\nC. right side\nD. bottom\nE. lower-right\nF. close\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217496.399924994.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn which area of the image is the sedan located?\n\nOptions:\nA. located in the top-right\nB. the top-left area\nC. top\nD. in the top-left\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133598.072435426.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere is the green field relative to the green field?\n\nOptions:\nA. upper-right\nB. lower-left\nC. bottom-right\nD. top-left\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138165.592386263.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere is the green field relative to the green field?\n\nOptions:\nA. lower side\nB. upper-left\nC. top-right\nD. lower-left\nE. lower-right\nF. nearby\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217548.399888992.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat region contains the green field?\n\nOptions:\nA. bottom\nB. located in the top-right\nC. the right area\nD. top\nE. the top area\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658230013.052830088.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the roof relative to the wild field?\n\nOptions:\nA. left\nB. lower-right\nC. top-right\nD. above\nE. close\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141404.199986935.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nIn which area of the image is the river located?\n\nOptions:\nA. bottom-right\nB. the bottom-right area\nC. center\nD. in the right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133369.580000565.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat can be found to the top-right of the roof?\n\nOptions:\nA. umbrella\nB. green field\nC. sedan\nD. truck\nE. roof\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698140798.999973059.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere is the river in the image?\n\nOptions:\nA. right\nB. the bottom area\nC. located in the top-right\nD. top-right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610304.599879980.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat can be found on the left side of the sedan?\n\nOptions:\nA. traffic barrier\nB. transparent roof\nC. paved motor road\nD. car park\nE. pool\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137659.116731647.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat region contains the green field?\n\nOptions:\nA. the bottom-right area\nB. the right area\nC. bottom\nD. located in the top-left\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217800.599835873.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat can be found in the upper-right of the traffic barrier?\n\nOptions:\nA. bridge\nB. car park\nC. dirt motor road\nD. airstrip\nE. traffic barrier\nF. paved walk\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698132458.399901867.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat object is in the lower-right of the green field?\n\nOptions:\nA. green field\nB. paved walk\nC. umbrella\nD. sedan\nE. transparent roof\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132345.130054615.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat region contains the dirt motor road?\n\nOptions:\nA. left\nB. in the center\nC. the right area\nD. top-right\nE. in the bottom-left\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland03/interval5_CAM/1669702758.599876165.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the river relative to the river?\n\nOptions:\nA. bottom-left\nB. above\nC. lower side\nD. bottom-right\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137519.620681396.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere is the green field relative to the roof?\n\nOptions:\nA. left\nB. lower side\nC. bottom-right\nD. below\nE. upper-left\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland01/interval5_CAM/1669703525.099828005.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhere is the sedan relative to the dirt motor road?\n\nOptions:\nA. upper-left\nB. nearby\nC. lower-right\nD. bottom-right\nE. below\nF. above\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{D}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132020.640226824.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat region contains the roof?\n\nOptions:\nA. the right area\nB. in the top-left\nC. the bottom-right area\nD. located in the bottom\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228691.943619476.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat object is in the lower-left of the green field?\n\nOptions:\nA. transparent roof\nB. paved motor road\nC. wild field\nD. airstrip\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219150.799982071.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is the position of the container relative to the umbrella?\n\nOptions:\nA. top\nB. left\nC. upper-right\nD. lower side\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{B}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133021.594719398.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is to the top-left of the roof?\n\nOptions:\nA. solar board\nB. paved motor road\nC. roof\nD. river\nE. car park\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{C}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131917.147119113.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat is in the upper-left of the sedan?\n\nOptions:\nA. green field\nB. pool\nC. background\nD. umbrella\nE. roof\nF. paved motor road\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{A}"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland03/interval5_CAM/1669702651.499909878.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nAnswer the following multiple choice question by selecting the correct option:\n\nWhat region contains the river?\n\nOptions:\nA. bottom-right\nB. located in the bottom-right\nC. the left area\nD. the top-right area\nE. bottom-left\n\nReturn only the option in the format: \\boxed{option}. Do not include extra text or reasoning.",
+    "ground_truth": "\\boxed{E}"
+  }
+]

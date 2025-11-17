@@ -1,0 +1,702 @@
+[
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132113.138637692.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need power generation, where should I go in the image?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[51,89]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217515.399877071.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the purpose of the item at coordinates (908, 638)?",
+    "ground_truth": "facilitates transportation of items"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132973.098865451.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the purpose of the item at coordinates (836, 1228)?",
+    "ground_truth": "offers a safe route for pedestrians"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698219948.999794960.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the function of the item at (54, 95)?",
+    "ground_truth": "provides space for cargo storage"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227162.599921942.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (1501, 346)?",
+    "ground_truth": "stores cars temporarily"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227260.099894047.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat does the object at position (2276, 1963) do?",
+    "ground_truth": "used for storing goods and materials"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137138.637962865.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhere should I go in the image if I need shelter from rain?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[746,1802]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131894.147441104.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (1793, 1671)?",
+    "ground_truth": "carries passengers"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137203.635256365.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhere should I go in the image if I need freight service?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[2019,1740]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217824.599917173.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need shade, where should I go in the image?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[2229,453]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606501.199827909.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (486, 264)?",
+    "ground_truth": "provides space for parking vehicles"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132406.625751954.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I want to walk safely, where should I go in the image?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671607141.699913979.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the purpose of the item at coordinates (1717, 1659)?",
+    "ground_truth": "serves as a main traffic route"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228933.435687998.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (158, 1263)?",
+    "ground_truth": "offers a space for cooling off in hot weather"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698218144.699885130.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I want to block vehicle access, where should I go in the image?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[604,1510]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132406.625751954.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (1930, 1959)?",
+    "ground_truth": "offers a safe route for pedestrians"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217767.099879980.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I want to keep goods safe, which location should I choose?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[1548,646]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671607138.199989080.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need parking space, where should I go in the image?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "car park"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228504.454103157.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need to cross over, which location should I choose?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698220091.299904108.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need to land a plane, which location should I choose?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[1291,900]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607446.199785948.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat does the object at position (695, 1050) do?",
+    "ground_truth": "serves as a runway for aviation"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport03/interval5_CAM/1671607671.099883080.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat type of facility is visible in the image?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228806.441350608.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need to cross over, where should I go in the image?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[1931,1168]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671609991.399964809.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat does the object at position (240, 438) do?",
+    "ground_truth": "provides a route for cars and trucks"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133213.087538747.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (1446, 1727)?",
+    "ground_truth": "used for growing crops and plants"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS02/interval5_CAM/1698219961.999816895.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the function of the object at point (452, 681) in the image?",
+    "ground_truth": "provides personal transportation"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137153.139448035.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the function of the item at (2312, 740)?",
+    "ground_truth": "generates electricity from sunlight"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698218981.199784994.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the purpose of the item at coordinates (1105, 2008)?",
+    "ground_truth": "provides a surface for aircraft to land"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698218979.699898005.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat does the object at position (2244, 350) do?",
+    "ground_truth": "serves as a storage unit"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606514.699810028.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat does the object at position (999, 157) do?",
+    "ground_truth": "offers designated parking area"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137127.139914884.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the function of the object at point (472, 802) in the image?",
+    "ground_truth": "serves as a clean energy source"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219041.199999094.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the function of the item at (1032, 449)?",
+    "ground_truth": "provides a route for cars and trucks"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219295.599994183.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the purpose of the item at coordinates (483, 155)?",
+    "ground_truth": "provides space for cargo storage"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227494.399995804.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (807, 1982)?",
+    "ground_truth": "used for storing goods and materials"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131904.147551635.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhere should I go in the image if I need electricity?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[116,754]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217473.399827957.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (2327, 1872)?",
+    "ground_truth": "allows vehicles to travel"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698218181.699925900.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat does the object at position (1941, 107) do?",
+    "ground_truth": "serves as an outdoor shelter"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS03/interval5_CAM/1698219300.599890947.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need storage space, which location should I choose?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "container"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610054.399796009.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the function of the object at point (2398, 1001) in the image?",
+    "ground_truth": "facilitates air transportation"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141834.399960041.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat natural area does the image show?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "green field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137508.123356731.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need protection from sun, where should I go in the image?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[1690,1710]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133444.078576261.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I want to enjoy nature, where should I go in the image?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "green field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137409.625539942.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the function of the item at (2333, 1816)?",
+    "ground_truth": "serves as the top covering of a building"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228395.958464257.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need freight service, which location should I choose?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138337.585341989.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (1201, 1209)?",
+    "ground_truth": "offers a safe route for pedestrians"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133593.072358186.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I want renewable energy, where should I go in the image?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138289.088559309.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I want to travel, where should I go in the image?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[1195,871]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606536.199939013.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat does the object at position (2249, 431) do?",
+    "ground_truth": "provides personal transportation"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137112.141519556.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need shelter from rain, where should I go in the image?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "roof"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610201.599833012.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat does the object at position (1364, 1733) do?",
+    "ground_truth": "serves as a main traffic route"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131892.646858559.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I want renewable energy, which location should I choose?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230710.998399514.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat does the object at position (2151, 1406) do?",
+    "ground_truth": "used for growing crops and plants"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137467.124813585.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need open space, where should I go in the image?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "green field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606540.199779987.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I want to leave your vehicle, where should I go in the image?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[2254,387]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132950.595501408.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need a pedestrian path, where should I go in the image?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[1535,901]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS01/interval5_CAM/1698131831.899891853.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the function of the object at point (2433, 1323) in the image?",
+    "ground_truth": "separates traffic lanes"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley02/interval5_CAM/1658230620.002776447.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need to transport cargo, which location should I choose?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[2034,1327]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217816.599820137.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need sun protection, where should I go in the image?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606471.699816942.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need to improve safety, which location should I choose?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228348.461564160.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat does the object at position (795, 1028) do?",
+    "ground_truth": "protects buildings from rain and sun"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228316.959720646.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the function of the object at point (356, 1055) in the image?",
+    "ground_truth": "covers and protects the interior space"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132406.625751954.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhere should I go in the image if I need a pedestrian path?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[1674,65]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610067.899981022.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat resting facility can be found in the image?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228719.444635437.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need water recreation, which location should I choose?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[96,1937]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610066.899966002.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhich transportation facility is present in the image?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "airstrip"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132406.625751954.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the function of the item at (877, 138)?",
+    "ground_truth": "enables foot traffic"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606624.199885130.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need sun protection, which location should I choose?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "umbrella"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131949.644783719.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhere should I go in the image if I need power generation?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[1677,745]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132990.096584555.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I want renewable energy, where should I go in the image?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[2180,788]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS_Evening/interval5_CAM/1698141258.899886131.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat type of natural area is visible in the image?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "green field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137444.128223611.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the purpose of the item at coordinates (1828, 595)?",
+    "ground_truth": "carries large items"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606506.199962139.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (1538, 494)?",
+    "ground_truth": "controls and directs traffic flow"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698133994.399970055.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhere in the image can I go if I need to improve safety?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606752.699984789.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (68, 25)?",
+    "ground_truth": "provides space for parking vehicles"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606533.199822187.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (1921, 427)?",
+    "ground_truth": "provides space for parking vehicles"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217777.099943876.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the purpose of the item at coordinates (39, 249)?",
+    "ground_truth": "provides space for parking vehicles"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132959.595890999.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhere should I go in the image if I need power generation?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227525.899960041.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat does the object at position (285, 1923) do?",
+    "ground_truth": "serves as a storage unit"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698226976.099991083.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the function of the object at point (1245, 52) in the image?",
+    "ground_truth": "serves as a storage unit"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228550.950708592.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need to cross the river, which location should I choose?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "bridge"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS_Evening/interval5_CAM/1698227098.599926949.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need shade, where should I go in the image?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[167,815]</point>"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698217798.099895954.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat does the object at position (810, 748) do?",
+    "ground_truth": "carries passengers"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133271.084788101.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the purpose of the item at coordinates (2295, 718)?",
+    "ground_truth": "serves as a main traffic route"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137861.605495614.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the purpose of the item at coordinates (2188, 50)?",
+    "ground_truth": "used for growing crops and plants"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138276.587613019.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat vehicle can be found in the image?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "truck"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley03/interval5_CAM/1658230026.052681633.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhere should I go in the image if I want fresh air?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "green field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228972.436472879.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (1649, 1615)?",
+    "ground_truth": "connects two separate areas"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671607153.699952841.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the function of the item at (979, 1800)?",
+    "ground_truth": "enables planes to take off"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport_GNSS01/interval5_CAM/1698218160.199918032.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (648, 393)?",
+    "ground_truth": "facilitates air transportation"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606455.199897051.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (225, 1011)?",
+    "ground_truth": "controls and directs traffic flow"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport01/interval5_CAM/1671606516.699815989.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhich facility is present in the image?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "traffic barrier"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658131920.644894482.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (1310, 332)?",
+    "ground_truth": "offers protection from rain"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown03/interval5_CAM/1658132114.637535066.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (1756, 1563)?",
+    "ground_truth": "provides commercial transportation"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKairport02/interval5_CAM/1671610320.599963903.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (2024, 964)?",
+    "ground_truth": "serves as a private vehicle"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658138324.587270892.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhere in the image can I go if I want renewable energy?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "solar board"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMvalley01/interval5_CAM/1658228959.933674615.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the use of the object located at (1266, 1219)?",
+    "ground_truth": "serves as a water feature for leisure"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_HKisland_GNSS02/interval5_CAM/1698133975.399964809.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nIf I need open space, which location should I choose?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "green field"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown01/interval5_CAM/1658137118.140407689.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat pedestrian facility can be found in the image?\nChoose from the follow object categories: roof, dirt motor road, paved motor road, river, pool, bridge, container, airstrip, traffic barrier, green field, wild field, solar board, umbrella, transparent roof, car park, paved walk, sedan, truck. Return only the object category. Do not include extra text or reasoning.",
+    "ground_truth": "paved walk"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658132992.097001385.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhat is the purpose of the item at coordinates (2359, 848)?",
+    "ground_truth": "generates electricity from sunlight"
+  },
+  {
+    "image": [
+      "UAVScenes/interval5_CAM_LIDAR/interval5_AMtown02/interval5_CAM/1658133558.074214171.jpg"
+    ],
+    "question": "<image>\nYou are a vision-language assistant.\nWhere in the image can I go if I need to transport cargo?\nThe answer consists only of several coordinate points, with the overall format being: <point>[[x1, y1], [x2, y2], ...]</point>. Do not include extra text or reasoning.",
+    "ground_truth": "<point>[2318,1078]</point>"
+  }
+]
