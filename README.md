@@ -38,11 +38,16 @@ Download our Sky-VLM model from [![hf_checkpoint](https://img.shields.io/badge/�
 
 
 ## 🔍 Evaluation for SpatialSky-Bench
+For inference:
 ```
 python parallel_inference.py --ckpt_path /your/ckpt/path --num_gpus $your GPU number
-bash eval.sh /your/result/dir
 ```
 
+For metrics computing:
+```
+cd metric
+bash eval.sh /your/result/dir
+```
 ## 🔥 Training
 The training dataset and code are coming soom...
 
