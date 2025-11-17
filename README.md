@@ -15,6 +15,7 @@ Repository for **Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Ben
 ## 🚀 Getting Start
 ### Installation
 ```
+git clone https://github.com/linglingxiansen/SpatialSKy.git
 pip install git+https://github.com/huggingface/transformers accelerate torch torchvision openai pillow tqdm nltk scipy
 ```
 ### Scene Dataset
@@ -22,10 +23,10 @@ Download the uav scene dataset from [UAVScenes](https://github.com/sijieaaa/UAVS
 ```
 SpatialSKy/
 ├── UAVScenes
-    ├── interval5_CAM_LIDAR
-    ├── interval5_CAM_LIDAR.zip
-    ├── interval5_CAM_label
-    └──...
+|   ├── interval5_CAM_LIDAR
+|   ├── interval5_CAM_LIDAR.zip
+|   ├── interval5_CAM_label
+|   └──...
 ├── benchmark
 ├── metric
 └── parallel_inference.py
