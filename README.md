@@ -1,10 +1,14 @@
 # Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation
 Repository for **Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation**
 
+
+![image](image/image.png)
+
+
 <h5 align="center">
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-9BDFDF)](https://github.com/linglingxiansen/SpatialSky/blob/main/LICENSE) 
-[![hf_checkpoint](https://img.shields.io/badge/🤗-Dataset-FBD49F.svg)](https://huggingface.co/llxs/Sky-VLM)
+[![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoint-FBD49F.svg)](https://huggingface.co/llxs/Sky-VLM)
 [![arXiv](https://img.shields.io/badge/Arxiv-2508.14160-E69191.svg?logo=arXiv)](https://arxiv.org/abs/2502.13451) 
 
 
@@ -28,7 +32,8 @@ SpatialSKy/
 ```
 
 ### Download Ckpt
-Download our Sky-VLM model from [![hf_checkpoint](https://img.shields.io/badge/🤗-Dataset-FBD49F.svg)](https://huggingface.co/llxs/Sky-VLM).
+
+Download our Sky-VLM model from [![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoint-FBD49F.svg)](https://huggingface.co/llxs/Sky-VLM).
 
 
 ## 🔍 Evaluation for SpatialSky-Bench
