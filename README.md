@@ -9,7 +9,7 @@ Repository for **Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Ben
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-9BDFDF)](https://github.com/linglingxiansen/SpatialSky/blob/main/LICENSE) 
 [![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoint-FBD49F.svg)](https://huggingface.co/llxs/Sky-VLM)
-[![arXiv](https://img.shields.io/badge/Arxiv-2508.14160-E69191.svg?logo=arXiv)](https://arxiv.org/abs/2511.13269) 
+[![arXiv](https://img.shields.io/badge/Arxiv-2511.13269-E69191.svg?logo=arXiv)](https://arxiv.org/abs/2511.13269) 
 
 
 ## 🚀 Getting Start
