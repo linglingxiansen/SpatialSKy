@@ -52,9 +52,16 @@ bash eval.sh /your/result/dir
 The training dataset and code are coming soon...
 
 
-
-
-
+## Citation
+If this work is helpful, please kindly cite as:
+```
+@article{spatialsky,
+      title={Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation}, 
+      author={Zhang, Lingfeng and Zhang, Yuchen and Li, Hongsheng and Fu, Haoxiang and Tang, Yingbo and Ye, Hangjun and Chen, Long and Liang, Xiaojun and Hao, Xiaoshuai and Ding, Wenbo},
+      journal={arXiv preprint arXiv:2511.13269},
+      year={2025},
+}
+```
 
 
 
