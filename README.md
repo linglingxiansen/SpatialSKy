@@ -1,4 +1,4 @@
-# Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation
+# [CVPR2026] Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation
 Repository for **Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation**
 
 
